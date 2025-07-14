@@ -11,24 +11,10 @@
             "id": "049d47bd01815446",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Correlation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Correlation"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -253,6 +239,7 @@
   },
   "active": "049d47bd01815446",
   "lastOpenFiles": [
+    "Definitions/Correlation.md",
     "Work/Papers/BIRP paper/Methods and Techniques.md",
     "Work/Papers/BIRP paper/Performance.md",
     "Work/Papers/BIRP paper/Use Cases.md",
@@ -279,7 +266,6 @@
     "Home/The Power of Leaving your Phone at Home.md",
     "Home/Mini-essays.md",
     "Home/I started telling my friends that I love them.md",
-    "Home/How I fixed my amplifier.md",
     "RecycleBin~5c0c.ffs_tmp/Work/Papers/BIRP paper",
     "RecycleBin~5c0c.ffs_tmp/Work/Papers",
     "Work/SMILE",
