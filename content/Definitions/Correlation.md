@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 This describes how strongly two sets of values are related. If the correlation is between 0 and 1, it is known as a "positive correlation" and means that, as set X increases, so does Y. If the correlation is between -1 and 0, that is described as a "negative correlation", meaning that as set X increases, Y decreases, and vice vera.
 
 I'm using it in [[A tool to help fitting for Magnetopause standoff distance]] to show how accurate a particular machine learning method is by calculating correlation between truth data and fitted data.

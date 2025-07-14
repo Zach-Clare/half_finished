@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 During April and May 2025, I created a sort of framework for developing and (crucially) measuring the effectiveness of magnetopause fitting algorithms. It underwent a significant refactor in June 2025.
 

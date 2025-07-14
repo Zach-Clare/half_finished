@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+draft: true
 ---
 The variance of a population is the mean average of the squares of the [[Deviation||deviation]] for all samples.
 $$

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 To calculate whether the boundary is within the SXI field of view, we need the `x` and `z` position of the spacecraft (denoted `xsc` and `zsc` respectively), the aimpoint along the `x` dimension (`xa`), and the magnetopause subsolar point along the `x` axis (`xmp`).
 
 We will construct a set of triangles:
