@@ -11,10 +11,14 @@
             "id": "b6956d4c3cc6e8ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "meta.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "meta"
             }
           }
         ]
@@ -161,6 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6956d4c3cc6e8ef",
-  "lastOpenFiles": []
+  "active": "a52637cb911424cb",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "meta.md"
+  ]
 }
