@@ -1,41 +1,148 @@
 {
   "main": {
-    "id": "7761c5259a3cd67c",
+    "id": "bd1a99ae365df795",
     "type": "split",
     "children": [
       {
-        "id": "0b20110711986574",
+        "id": "536b5d50bd31563c",
         "type": "tabs",
         "children": [
           {
-            "id": "b6956d4c3cc6e8ef",
+            "id": "049d47bd01815446",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meta.md",
+                "file": "Work/Papers/BIRP paper/Methods and Techniques.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "meta"
+              "title": "Methods and Techniques"
+            }
+          },
+          {
+            "id": "823a9ee2f85ee8fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Papers/BIRP paper/BIRP paper outline.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BIRP paper outline"
+            }
+          },
+          {
+            "id": "46e1b2eff8ad8af6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Papers/BIRP paper/Use Cases.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Use Cases"
+            }
+          },
+          {
+            "id": "5b7e15e70f106fd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Papers/BIRP paper/BIRP paper outline.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BIRP paper outline"
+            }
+          },
+          {
+            "id": "3faa76537dba42a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Papers/BIRP paper/Performance.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Performance"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fbce4168ac7ee21d",
+    "id": "677c1a67f7d9473b",
     "type": "split",
     "children": [
       {
-        "id": "084f2328c9ff5441",
+        "id": "1c3974cbd294f1f4",
         "type": "tabs",
         "children": [
           {
-            "id": "a52637cb911424cb",
+            "id": "363b091fee8ade52",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +155,12 @@
             }
           },
           {
-            "id": "753947edc030ea0f",
+            "id": "ded77a8192b85fe6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +172,7 @@
             }
           },
           {
-            "id": "445938a2542e6f7d",
+            "id": "ca75b33eff4281a3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,22 +185,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 416.5
   },
   "right": {
-    "id": "8168fa4bc3b86d5a",
+    "id": "5f3e9c33ad963354",
     "type": "split",
     "children": [
       {
-        "id": "6adf755194692500",
+        "id": "f24297b6ab53d15a",
         "type": "tabs",
         "children": [
           {
-            "id": "64856f911deeb58b",
+            "id": "d42955954cec7bde",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A tool to help fitting for Magnetopause Standoff distance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +211,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for A tool to help fitting for Magnetopause Standoff distance"
             }
           },
           {
-            "id": "323b7bcb8198c677",
+            "id": "441db932e30a9d66",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A tool to help fitting for Magnetopause Standoff distance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from A tool to help fitting for Magnetopause Standoff distance"
             }
           },
           {
-            "id": "c2fd071bae1e1ed5",
+            "id": "aa55ca4c22e9a812",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,17 +244,18 @@
             }
           },
           {
-            "id": "c98a67ed216eeb6f",
+            "id": "b1120e1cfc161efc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "A tool to help fitting for Magnetopause Standoff distance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of A tool to help fitting for Magnetopause Standoff distance"
             }
           }
         ]
@@ -157,6 +267,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "digitalgarden:Digital Garden Publication Center": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -165,9 +277,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a52637cb911424cb",
+  "active": "363b091fee8ade52",
   "lastOpenFiles": [
-    "Welcome.md",
-    "meta.md"
+    "RecycleBin~5c0c.ffs_tmp/Work/Papers/BIRP paper/Performance.md",
+    "RecycleBin~5c0c.ffs_tmp/Work/Papers/BIRP paper/Conclusion.md",
+    "RecycleBin~5c0c.ffs_tmp/Work/Papers/BIRP paper/BIRP paper outline.md",
+    "RecycleBin~5c0c.ffs_tmp/Work/Papers/BIRP paper",
+    "RecycleBin~5c0c.ffs_tmp/Work/Papers",
+    "Work/Papers/BIRP paper/Abstract.md",
+    "Work/SMILE/SBI for SXI L4 Data.md",
+    "Work/SMILE/Residual Miscalcuation.md",
+    "Work/SMILE/Nelder-mead's normalised error function.md",
+    "Work/SMILE/Nelder-Mead SXI Fitting.md",
+    "Work/SMILE/My custom Differential Evolution error function.md",
+    "Work/SMILE/Investigating Nelder-Mead's Errors.md",
+    "Work/SMILE/Fitting tool workflow.md",
+    "Work/SMILE/Differential Evolution fitting.md",
+    "Work/SMILE/Calculating whether SMILE's SXI can see the magnetopause boundary.md",
+    "Work/SMILE/A tool to help fitting for Magnetopause standoff distance.md",
+    "Work/SMILE",
+    "Work/ARRAKIHS/Pyxel Usage.md",
+    "Work/ARRAKIHS/Python Import Woes.md",
+    "Work/ARRAKIHS/Editable Properties.md",
+    "Work/ARRAKIHS",
+    "images/Pasted image 20250702113716.png",
+    "RecycleBin~5c0c.ffs_tmp/Definitions/Variance.md",
+    "RecycleBin~5c0c.ffs_tmp/Definitions/Summary Statistics.md",
+    "RecycleBin~5c0c.ffs_tmp/Definitions/Statistical Inference (SI).md",
+    "RecycleBin~5c0c.ffs_tmp/Definitions/Simulation Based Inference (SBI).md",
+    "RecycleBin~5c0c.ffs_tmp/Definitions/Range.md",
+    "RecycleBin~5c0c.ffs_tmp/Definitions/Mechanistic models.md",
+    "RecycleBin~5c0c.ffs_tmp/Definitions/Histogram of residuals.md",
+    "RecycleBin~5c0c.ffs_tmp/Definitions/Deviation.md",
+    "RecycleBin~5c0c.ffs_tmp/Definitions/Correlation.md",
+    "RecycleBin~5c0c.ffs_tmp/Definitions",
+    "RecycleBin~5c0c.ffs_tmp/Work",
+    "RecycleBin~5c0c.ffs_tmp",
+    "sync.ffs_lock",
+    "images/scatter_NM_375_fixed.png",
+    "images/scatter_NM__375_redisual_time_error.png",
+    "images/scatter_NM_375_norm.png",
+    "Work/Papers/BIRP paper",
+    "Ideas",
+    "images/scatter_DE_375_fixed.png",
+    "images/nm_375_residual_time_error 1.png",
+    "images/nm_375_residual_time_error.png",
+    "images/binarisation_example.png",
+    "images/scatter_DE_375.png",
+    "images/scatter_NM_375.png"
   ]
 }
