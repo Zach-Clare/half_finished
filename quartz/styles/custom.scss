@@ -5,3 +5,20 @@
 .page > #quartz-body .sidebar {
     height: auto;
 }
+
+
+/********************************** Callouts ******************************/
+.callout[data-callout="info"] {
+	background-color: hsla(var(--accent-h),var(--accent-s),var(--accent-l), 0.15); /* custom background color */
+
+}
+.callout[data-callout="info"] .callout-title,
+.callout[data-callout="info"] .callout-title .svg-icon {
+	color: var(--text-color);
+}
+
+.callout[data-callout="knowledge"] { /* custom callout type for memorable points or conclusions */
+	--callout-color: var(--link-color);
+	--callout-icon: brain;
+	border: 2px solid var(--color-base-25);
+}

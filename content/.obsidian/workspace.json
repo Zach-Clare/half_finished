@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Work/SMILE/Investigating Nelder-Mead's Errors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Investigating Nelder-Mead's Errors"
             }
           },
           {
@@ -230,8 +230,9 @@
   },
   "active": "fb360855c44c8364",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Work/SMILE/Differential Evolution fitting.md",
     "index.md",
+    "Welcome.md",
     "Work/ARRAKIHS/Manipulating the Photon Array.md",
     "Work/ARRAKIHS/Editable Properties.md",
     "Work/ARRAKIHS/The Simple Light Shield via Array Slicing.md",
@@ -244,7 +245,6 @@
     "meta.md",
     "Work/SMILE/Calculating whether SMILE's SXI can see the magnetopause boundary.md",
     "Work/SMILE/Fitting tool workflow.md",
-    "Work/SMILE/Differential Evolution fitting.md",
     "Work/SMILE/A tool to help fitting for Magnetopause standoff distance.md",
     "Home/Environment shapes habits.md",
     "Work/SMILE/Nelder-Mead SXI Fitting.md",
