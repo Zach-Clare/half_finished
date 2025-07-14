@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Papers/BIRP paper/BIRP paper outline.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BIRP paper outline"
+              "title": "index"
             }
           },
           {
@@ -278,6 +278,7 @@
   },
   "active": "363b091fee8ade52",
   "lastOpenFiles": [
+    "Work/Papers/BIRP paper/BIRP paper outline.md",
     "RecycleBin~5c0c.ffs_tmp/Work/Papers/BIRP paper/Performance.md",
     "RecycleBin~5c0c.ffs_tmp/Work/Papers/BIRP paper/Conclusion.md",
     "RecycleBin~5c0c.ffs_tmp/Work/Papers/BIRP paper/BIRP paper outline.md",
@@ -308,7 +309,6 @@
     "RecycleBin~5c0c.ffs_tmp/Definitions/Mechanistic models.md",
     "RecycleBin~5c0c.ffs_tmp/Definitions/Histogram of residuals.md",
     "RecycleBin~5c0c.ffs_tmp/Definitions/Deviation.md",
-    "RecycleBin~5c0c.ffs_tmp/Definitions/Correlation.md",
     "RecycleBin~5c0c.ffs_tmp/Definitions",
     "RecycleBin~5c0c.ffs_tmp/Work",
     "RecycleBin~5c0c.ffs_tmp",
