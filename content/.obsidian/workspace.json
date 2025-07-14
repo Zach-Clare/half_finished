@@ -11,10 +11,24 @@
             "id": "049d47bd01815446",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Work/SMILE/Nelder-Mead SXI Fitting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nelder-Mead SXI Fitting"
             }
           },
           {
@@ -239,6 +253,8 @@
   },
   "active": "049d47bd01815446",
   "lastOpenFiles": [
+    "Work/SMILE/A tool to help fitting for Magnetopause standoff distance.md",
+    "Work/SMILE/Nelder-Mead SXI Fitting.md",
     "Definitions/Correlation.md",
     "Work/Papers/BIRP paper/Methods and Techniques.md",
     "Work/Papers/BIRP paper/Performance.md",
@@ -252,13 +268,11 @@
     "Work/SMILE/SBI for SXI L4 Data.md",
     "Work/SMILE/Residual Miscalcuation.md",
     "Work/SMILE/Nelder-mead's normalised error function.md",
-    "Work/SMILE/Nelder-Mead SXI Fitting.md",
     "Work/SMILE/My custom Differential Evolution error function.md",
     "Work/SMILE/Investigating Nelder-Mead's Errors.md",
     "Work/SMILE/Fitting tool workflow.md",
     "Work/SMILE/Differential Evolution fitting.md",
     "Work/SMILE/Calculating whether SMILE's SXI can see the magnetopause boundary.md",
-    "Work/SMILE/A tool to help fitting for Magnetopause standoff distance.md",
     "Work/ARRAKIHS/Pyxel Usage.md",
     "Work/ARRAKIHS/Python Import Woes.md",
     "Work/ARRAKIHS/Manipulating the Photon Array.md",
