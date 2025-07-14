@@ -32,11 +32,14 @@
 }
 
 /* don't hide reader mode button! */
-:root[reader-mode="on"] .readermode {
+// bring back the while sidebar
+:root[reader-mode="on"] .left.sidebar {
   opacity: 1;
 }
-
-// but do hide the explorer :)
-:root[reader-mode="on"] .explorer {
-  display: none;
+// and hide the specific elements we don't want, leaving the readermode button opaque
+:root[reader-mode="on"] .explorer,
+:root[reader-mode="on"] .page-title,
+:root[reader-mode="on"] .search,
+:root[reader-mode="on"] .darkmode {
+  opacity: 0;
 }
