@@ -46,10 +46,10 @@
   transition: opacity .2s;
 }
 // and keep the hover functionality, that's pretty cool
-:root[reader-mode="on"] .sidebar.left:hover :root[reader-mode="on"] .explorer,
-:root[reader-mode="on"] .sidebar.left:hover :root[reader-mode="on"] .page-title,
-:root[reader-mode="on"] .sidebar.left:hover :root[reader-mode="on"] .search,
-:root[reader-mode="on"] .sidebar.left:hover :root[reader-mode="on"] .darkmode {
+:root[reader-mode="on"] .sidebar.left:hover .explorer,
+:root[reader-mode="on"] .sidebar.left:hover .page-title,
+:root[reader-mode="on"] .sidebar.left:hover .search,
+:root[reader-mode="on"] .sidebar.left:hover .darkmode {
   opacity: 1;
   transition: opacity .2s;
 }
