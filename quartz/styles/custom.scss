@@ -33,7 +33,8 @@
 
 /* don't hide reader mode button! */
 // bring back the while sidebar
-:root[reader-mode="on"] .left.sidebar {
+:root[reader-mode="on"] .left.sidebar,
+:root[reader-mode="on"] .readermode {
   opacity: 1;
 }
 // and hide the specific elements we don't want, leaving the readermode button opaque
