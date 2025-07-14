@@ -1,0 +1,29 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "6aTqvbTYyKj7wkgUJVGRL",
+      "name": "Incomplete",
+      "value": "#ff004c"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Definitions/Variance.md",
+      "color": "6aTqvbTYyKj7wkgUJVGRL"
+    },
+    {
+      "path": "Definitions/Residuals.md",
+      "color": "6aTqvbTYyKj7wkgUJVGRL"
+    },
+    {
+      "path": "Work/SMILE/SBI for SXI L4 Data.md",
+      "color": "6aTqvbTYyKj7wkgUJVGRL"
+    },
+    {
+      "path": "Ideas/Secret Computer Code Threatens Science.md",
+      "color": "6aTqvbTYyKj7wkgUJVGRL"
+    }
+  ]
+}
