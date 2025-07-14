@@ -12,6 +12,12 @@
   text-shadow: var(--lightgray) 3px 3px;
 }
 
+// space out sidebar elements so note titles are more readable
+li {
+  line-height: 1.3rem;
+  padding: 0.2rem 0;
+}
+
 
 /********************************** Callouts ******************************/
 
