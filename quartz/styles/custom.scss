@@ -45,7 +45,7 @@
   opacity: 0;
   transition: opacity .2s;
 }
-// and keep the hover functionality, that's pretty cool
+// and keep the hover functionality for the left sidebar, that's pretty cool
 :root[reader-mode="on"] .sidebar.left:hover .explorer,
 :root[reader-mode="on"] .sidebar.left:hover .page-title,
 :root[reader-mode="on"] .sidebar.left:hover .search,
