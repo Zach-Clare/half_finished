@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Summary Statistics.md",
+                "file": "Home/Mini-essays.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Summary Statistics"
+              "title": "Mini-essays"
             }
           },
           {
@@ -230,6 +230,9 @@
   },
   "active": "fb360855c44c8364",
   "lastOpenFiles": [
+    "Home/The Power of Leaving your Phone at Home.md",
+    "Definitions/Range.md",
+    "Definitions/Summary Statistics.md",
     "Definitions/Variance.md",
     "Definitions/Residuals.md",
     "Work/ARRAKIHS/Manipulating the Photon Array.md",
@@ -250,9 +253,7 @@
     "Home/Environment shapes habits.md",
     "Work/SMILE/Nelder-Mead SXI Fitting.md",
     "Definitions/Simulation Based Inference (SBI).md",
-    "Definitions/Summary Statistics.md",
     "Definitions/Statistical Inference (SI).md",
-    "Definitions/Range.md",
     "Definitions/Mechanistic models.md",
     "Definitions/Histogram of residuals.md",
     "Definitions/Deviation.md",
