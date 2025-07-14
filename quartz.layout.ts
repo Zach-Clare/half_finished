@@ -43,7 +43,8 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph({
 	globalGraph: {
-	    enableRadial: false
+	    enableRadial: false,
+            centerForce: 0.6
         }
     }),
     Component.DesktopOnly(Component.TableOfContents()),
