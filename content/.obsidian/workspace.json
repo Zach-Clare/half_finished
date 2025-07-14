@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Work/ARRAKIHS/The Simple Light Shield via Array Slicing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "The Simple Light Shield via Array Slicing"
             }
           },
           {
@@ -276,8 +276,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "363b091fee8ade52",
+  "active": "5b7e15e70f106fd3",
   "lastOpenFiles": [
+    "index.md",
     "Work/Papers/BIRP paper/BIRP paper outline.md",
     "RecycleBin~5c0c.ffs_tmp/Work/Papers/BIRP paper/Performance.md",
     "RecycleBin~5c0c.ffs_tmp/Work/Papers/BIRP paper/Conclusion.md",
@@ -308,7 +309,6 @@
     "RecycleBin~5c0c.ffs_tmp/Definitions/Range.md",
     "RecycleBin~5c0c.ffs_tmp/Definitions/Mechanistic models.md",
     "RecycleBin~5c0c.ffs_tmp/Definitions/Histogram of residuals.md",
-    "RecycleBin~5c0c.ffs_tmp/Definitions/Deviation.md",
     "RecycleBin~5c0c.ffs_tmp/Definitions",
     "RecycleBin~5c0c.ffs_tmp/Work",
     "RecycleBin~5c0c.ffs_tmp",
