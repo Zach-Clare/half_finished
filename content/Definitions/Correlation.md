@@ -7,7 +7,7 @@ Considered a [[Summary Statistics||summary statistic]].
 In Python, many people use `NumPy`, but I find it easier to use the inbuilt `statistics` library. 
 
 Here's an example:
-```
+```python
 from statistics import correlation
 
 x = [0.10, 0.20, 0.30, 0.40, 0.50]

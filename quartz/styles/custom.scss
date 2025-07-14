@@ -2,22 +2,18 @@
 
 // put your custom CSS here!
 
+// No scrollbar on explorer. The page will grow to fit
 .page > #quartz-body .sidebar {
-    height: auto;
+  height: auto;
+}
+
+// slight dropshadow
+.page-title {
+  text-shadow: #e1e1e1 3px 3px;
 }
 
 
 /********************************** Callouts ******************************/
-// .callout[data-callout="info"] {
-// 	background-color: var(--dark); /* custom background color */
-
-// }
-// .callout[data-callout="info"] .callout-title,
-// .callout[data-callout="info"] .callout-title .svg-icon {
-// 	color: var(--secondary);
-// }
-
-/* better */
 
 .callout {
   &[data-callout="knowledge"] {
