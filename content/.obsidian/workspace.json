@@ -37,7 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Mini-essays.md",
+                "file": "Way of Life/Mini-essays.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mini-essays"
+            }
+          },
+          {
+            "id": "e25125e48ff9c177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Way of Life/Mini-essays.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,9 +252,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "fb360855c44c8364",
+  "active": "e25125e48ff9c177",
   "lastOpenFiles": [
-    "Home/The Power of Leaving your Phone at Home.md",
+    "Notes/How I fixed my amplifier.md",
+    "Notes",
+    "Way of Life/Seneca's take on Reflection.md",
+    "Way of Life/Mini-essays.md",
+    "Way of Life/The Power of Leaving your Phone at Home.md",
     "Definitions/Range.md",
     "Definitions/Summary Statistics.md",
     "Definitions/Variance.md",
@@ -250,15 +278,12 @@
     "Work/SMILE/Fitting tool workflow.md",
     "Work/SMILE/Differential Evolution fitting.md",
     "Work/SMILE/A tool to help fitting for Magnetopause standoff distance.md",
-    "Home/Environment shapes habits.md",
+    "Way of Life/Environment shapes habits.md",
     "Work/SMILE/Nelder-Mead SXI Fitting.md",
     "Definitions/Simulation Based Inference (SBI).md",
     "Definitions/Statistical Inference (SI).md",
     "Definitions/Mechanistic models.md",
     "Definitions/Histogram of residuals.md",
-    "Definitions/Deviation.md",
-    "Definitions/Correlation.md",
-    "Work/SMILE/SBI for SXI L4 Data.md",
     "Untitled.canvas",
     "images/Pasted image 20250702113716.png",
     "Work/ARRAKIHS",
@@ -275,7 +300,6 @@
     "images/scatter_DE_375.png",
     "Work/Papers",
     "Definitions",
-    "Home",
-    "images"
+    "Way of Life"
   ]
 }

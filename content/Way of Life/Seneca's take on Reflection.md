@@ -1,0 +1,7 @@
+>Yet the great man has occasionally, albeit with a disdainful expression, condescended to look on you, whoever you are; he has deigned to listen to your words, he has allowed you to walk at his side. But you never thought fit to look on yourself  or to listen to yourself. And so you've no reason to expect a return from anyone for those attentions of yours, since you offered them not because you wanted another's company, but because you were incapable of communing with yourself. - Seneca, *On the Shortness of Life*, (5)
+
+I think that Seneca here talks about the difference between a wanted companion and what could be merely desire for attention. If you don't listen to your thoughts and fully come to terms with yourself, you will seek validation from outside. This "great one" (which I take to mean "one who has grown to own their soul") decides to listen to someone who has not had this growth despite the unlikely return of care, which I think is why they're doing it with a disdainful expression. Seneca is telling us to sit with ourselves, validate our own thoughts and feelings before throwing them out to the world. 
+
+Or instead perhaps he's indirectly scolding the "great one". The "great one" knows he should be careful with his time (as I believe it's the overarching theme of this letter) and should not be spending it being a rubber duck for this other person who has never validated their own thoughts.
+
+Maybe it's both.
