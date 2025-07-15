@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[scatter_NM__375_redisual_time_error.png]]
 
 Every dot on the graph above is a single result from the [[A tool to help fitting for Magnetopause standoff distance||fitting tool]]. Any result within 0.5 on the Residual axis is classed as a successful fit. One can see the majority of successful fits taking around 6 seconds, though some have taken as long at 14 seconds to fit. Many other fits that have taken 14 seconds have also been very wrong.

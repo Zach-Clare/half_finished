@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 This is a simple calculation. The maximum value minus the minimum value in the dataset. If the resultant value is large, there is a large spread of values throughout the dataset. If the value is small, it means the grouping is tight.
 
 Considered a [[Summary Statistics||summary statistic]].

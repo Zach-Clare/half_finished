@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
  When calculating the [[Residuals||residuals]] for the [[A tool to help fitting for Magnetopause standoff distance||fitting tool]], I made a mistake in calculation that made the results seem far less coherent than they actually were.
 
 When the fit is complete, the MP standoff distance is calculated for the truth image and for the fitted image. To calculate this, it needs solar wind velocity and the magnetic vector (to calculate the dynamic and magnetic pressure), dipole tilt, and all p parameters.

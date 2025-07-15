@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "049d47bd01815446",
+            "id": "96544bbf17a6fb29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/SMILE/Nelder-Mead SXI Fitting.md",
+                "file": "Work/ARRAKIHS/Editable Properties.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nelder-Mead SXI Fitting"
+              "title": "Editable Properties"
             }
           },
           {
-            "id": "823a9ee2f85ee8fa",
+            "id": "fb360855c44c8364",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BIRP paper outline"
+              "title": "Mini-essays"
             }
           },
           {
-            "id": "46e1b2eff8ad8af6",
+            "id": "92336c6c61c74bbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Papers/BIRP paper/Use Cases.md",
+                "file": "Work/ARRAKIHS/The Light Shield via Array Slicing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,31 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Use Cases"
-            }
-          },
-          {
-            "id": "3faa76537dba42a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Papers/BIRP paper/Performance.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Performance"
+              "title": "The Light Shield via Array Slicing"
             }
           }
         ],
@@ -267,13 +243,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "e25125e48ff9c177",
@@ -310,33 +286,8 @@
     "Definitions/Histogram of residuals.md",
     "Untitled.canvas",
     "images/Pasted image 20250702113716.png",
-    "Work/ARRAKIHS/The Simple Light Shield via Array Slicing.md",
-    "Ideas/Secret Computer Code Threatens Science.md",
-    "Definitions/Residuals.md",
-    "Definitions/Variance.md",
-    "Work/SMILE/SBI for SXI L4 Data.md",
-    "Work/SMILE/Residual Miscalcuation.md",
-    "Work/SMILE/Nelder-mead's normalised error function.md",
-    "Work/SMILE/My custom Differential Evolution error function.md",
-    "Work/SMILE/Investigating Nelder-Mead's Errors.md",
-    "Work/SMILE/Fitting tool workflow.md",
-    "Work/SMILE/Differential Evolution fitting.md",
-    "Work/SMILE/Calculating whether SMILE's SXI can see the magnetopause boundary.md",
-    "Work/ARRAKIHS/Pyxel Usage.md",
-    "Work/ARRAKIHS/Python Import Woes.md",
-    "Work/ARRAKIHS/Manipulating the Photon Array.md",
-    "Work/ARRAKIHS/Editable Properties.md",
-    "Home/The Power of Leaving your Phone at Home.md",
-    "Home/Mini-essays.md",
-    "Home/I started telling my friends that I love them.md",
-    "RecycleBin~5c0c.ffs_tmp/Work/Papers/BIRP paper",
-    "RecycleBin~5c0c.ffs_tmp/Work/Papers",
-    "Work/SMILE",
     "Work/ARRAKIHS",
-    "RecycleBin~5c0c.ffs_tmp/Definitions",
-    "RecycleBin~5c0c.ffs_tmp/Work",
-    "RecycleBin~5c0c.ffs_tmp",
-    "sync.ffs_lock",
+    "Work/SMILE",
     "images/scatter_NM_375_fixed.png",
     "images/scatter_NM__375_redisual_time_error.png",
     "images/scatter_NM_375_norm.png",

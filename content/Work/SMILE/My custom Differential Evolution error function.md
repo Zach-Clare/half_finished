@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 At this point in the project, most of the [[Differential Evolution fitting||DE results I show]] are done with a custom error function. It's a bit more complex than something like MSE, but it's not difficult to understand. 
 
 Firstly, a pre-processing step. Each input image is thresholded in respect to a percentage, usually something like 70 or 80. This means that every value in the image is turned into a 1 or 0, depending on whether they're in the bottom 80% or the top 20% of values (or whatever your threshold value is). 

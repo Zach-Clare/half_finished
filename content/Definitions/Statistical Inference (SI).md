@@ -1,6 +1,7 @@
 ---
 aliases:
   - SI
+dg-publish: true
 ---
 This is the process of using statistics and data analysis to understand a population. Estimation uses certain parameters about the population (along with a confidence interval e.g. between 0.5 and 0.7) to draw conclusions. Hypothesis testing uses claims (hypotheses) and Boolean answers to draw conclusions.
 

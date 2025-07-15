@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 The popular (and possibly ill-fitting) methodology is to use the Mean Squared Error value to guide the algorithm along gradient descent. This returns values that are in whatever units the comparison subjects are in. This is usually fine and works acceptably for most applications, but I had an idea to change this.
 
 The new methodology would be to normalise each comparison subject so that each value in the comparison images would be between 0 and 1. This means that, when comparing images, the error function would be more concerned with the location of peaks in the image, and would try to match them up. I thought this would work best because we are not trying to fit for the solar wind properties - we are trying to fit the MP standoff distance, something that is only concerned with the location of the peaks in the image.

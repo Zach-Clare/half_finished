@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 This note should help provide a brief overview of how the [[A tool to help fitting for Magnetopause standoff distance|fitting tool]] works in practise. I encourage you to open the code and follow along - look in the main functions and get inquisitive.
 

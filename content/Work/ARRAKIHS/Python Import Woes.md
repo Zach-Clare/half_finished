@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Spoiler alert: I'm now partially bald. The simple line of `import pyxel` had me ripping my hair out for a solid few hours. After fixing the problems and washing my hands of dearest headfluff, I can write about it to save the next programmer.
 
 ## The Problem
