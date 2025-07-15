@@ -1,3 +1,87 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// No scrollbar on explorer. The page will grow to fit
+.page > #quartz-body .sidebar {
+  height: auto;
+}
+
+// slight dropshadow
+.page-title {
+  text-shadow: var(--lightgray) 3px 3px;
+}
+
+// space out sidebar elements so note titles are more readable
+li {
+  line-height: 1.3rem;
+  padding: 0.2rem 0;
+}
+
+
+/********************************** Callouts ******************************/
+
+.callout {
+  &[data-callout="knowledge"] {
+    --color: var(--dark);
+    border: 2px solid var(--dark);
+    --bg: var(--light);
+    --callout-icon: url("data:image/svg+xml; utf8, %3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-brain-icon lucide-brain'%3E%3Cpath d='M12 18V5'/%3E%3Cpath d='M15 13a4.17 4.17 0 0 1-3-4 4.17 4.17 0 0 1-3 4'/%3E%3Cpath d='M17.598 6.5A3 3 0 1 0 12 5a3 3 0 1 0-5.598 1.5'/%3E%3Cpath d='M17.997 5.125a4 4 0 0 1 2.526 5.77'/%3E%3Cpath d='M18 18a4 4 0 0 0 2-7.464'/%3E%3Cpath d='M19.967 17.483A4 4 0 1 1 12 18a4 4 0 1 1-7.967-.517'/%3E%3Cpath d='M6 18a4 4 0 0 1-2-7.464'/%3E%3Cpath d='M6.003 5.125a4 4 0 0 0-2.526 5.77'/%3E%3C/svg%3E"); //SVG icon code for brain 
+  }
+
+  &[data-callout="info"] {
+    --color: var(--secondary);
+    // --border: 2px solid var(--secondary);
+    --bg: var(--light);
+    --callout-icon: url("data:image/svg+xml; utf8, %3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-circle-alert-icon lucide-circle-alert'%3E%3Ccircle cx='12' cy='12' r='10'/%3E%3Cline x1='12' x2='12' y1='8' y2='12'/%3E%3Cline x1='12' x2='12.01' y1='16' y2='16'/%3E%3C/svg%3E"); //SVG icon code for warning circle
+  }
+}
+
+/* don't hide reader mode button! */
+// bring back the while sidebar
+:root[reader-mode="on"] .left.sidebar,
+:root[reader-mode="on"] .readermode {
+  opacity: 1;
+}
+// and hide the specific elements we don't want, leaving the readermode button opaque
+:root[reader-mode="on"] .explorer,
+:root[reader-mode="on"] .page-title,
+:root[reader-mode="on"] .search,
+:root[reader-mode="on"] .darkmode {
+  opacity: 0;
+  transition: opacity .2s;
+}
+// and keep the hover functionality for the left sidebar, that's pretty cool
+:root[reader-mode="on"] .sidebar.left:hover .explorer,
+:root[reader-mode="on"] .sidebar.left:hover .page-title,
+:root[reader-mode="on"] .sidebar.left:hover .search,
+:root[reader-mode="on"] .sidebar.left:hover .darkmode {
+  opacity: 1;
+  transition: opacity .2s;
+}
+
+/********************************** Funky pattern ******************************/
+
+body {
+  --s: 34px; /* control the size*/
+  --c1: var(--light);
+  --c2: var(--lightlightgray);
+  
+  --_g: var(--c1)        6.1%,var(--c2)  6.4% 18.6%,var(--c1) 18.9% 31.1%,
+        var(--c2) 31.4% 43.6%,var(--c1) 43.9% 56.1%,var(--c2) 56.4% 68.6%,#0000 68.9%;
+  background:
+    radial-gradient(var(--s) at 100% 0   ,var(--_g)),
+    radial-gradient(var(--s) at 0    0   ,var(--_g)),
+    radial-gradient(var(--s) at 0    100%,var(--_g)),
+    radial-gradient(var(--s) at 100% 100%,var(--_g)) var(--c1);
+  background-size: var(--s) var(--s);
+}
+.page {
+  background-color: var(--light);
+}
+
+.page-title {
+  mask: conic-gradient(from -135deg at right,#0000,#000 1deg 89deg,#0000 90deg) 50%/100% 7px;
+  background-color: var(--lightlightgray);
+  padding: 0.2em;
+}

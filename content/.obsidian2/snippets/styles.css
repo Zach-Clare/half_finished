@@ -1,0 +1,64 @@
+.view-content {
+	--blockquote-border-thickness: 0.35em;
+}
+
+/********************************** Blockquotes ******************************/
+/*makes the block quote line behind the quote ">" marker */
+.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote:before, .markdown-source-view.mod-cm6 .cm-blockquote-border:before {
+	z-index: -1;
+}
+
+/* Returns the quote mrker ">" to it's original color. It remains transparents when not in focus */
+.cm-s-obsidian span.cm-formatting-quote {
+	color: var(--text-color);
+}
+
+/********************************** Callouts ******************************/
+.callout[data-callout="info"] {
+	background-color: hsla(var(--accent-h),var(--accent-s),var(--accent-l), 0.15); /* custom background color */
+
+}
+.callout[data-callout="info"] .callout-title,
+.callout[data-callout="info"] .callout-title .svg-icon {
+	color: var(--text-color);
+}
+
+.callout[data-callout="knowledge"] { /* custom callout type for memorable points or conclusions */
+	--callout-color: var(--link-color);
+	--callout-icon: brain;
+	border: 2px solid var(--color-base-25);
+}
+
+
+/********************************** Filetree ******************************/
+/* Modifications to "File Color" community plugin */
+.file-color-color-6aTqvbTYyKj7wkgUJVGRL .tree-item-inner {
+	box-shadow: -4px 0px 0px 0px var(--link-color);
+    	margin-left: -5px;
+    	padding-left: 5px;
+    	color: #b3b3b3;
+}
+
+.file-color-color-6aTqvbTYyKj7wkgUJVGRL .is-active .tree-item-inner {
+	color: #dadada;
+}
+
+/********************************** Basic stuff ******************************/
+/* Text size */
+body {
+  --h1-size: 1.8em;
+  --h2-size: 1.5em;
+  --h3-size: 1.3em;
+  --h4-size: 1em;
+  --h5-size: 1em;
+  --h6-size: 1em;
+}
+
+/* Hightlight colour */
+.cm-highlight {
+	background-color: hsla(var(--accent-h),var(--accent-s),var(--accent-l), 0.4);
+	/*background-color: rgba(255, 38, 114, 0.4)*/
+}
+
+/*old orange: #e69100*/
+

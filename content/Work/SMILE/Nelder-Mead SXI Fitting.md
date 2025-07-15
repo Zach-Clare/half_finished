@@ -1,8 +1,6 @@
----
-dg-publish: true
----
 ![[scatter_NM_375_fixed.png]]
-Above is a run I did with 375 fake observations using the [[A tool to help fitting for Magnetopause standoff distance||MP fitting tool]]. One can see that these lines that surface during the Nelder-Mead fit are very present. 
+
+Above is a run I did with 375 fake observations using the [[A tool to help fitting for Magnetopause standoff distance|MP fitting tool]]. One can see that these lines that surface during the Nelder-Mead fit are very present. 
 ## Cause
 I would say that this is the error surface being graphed, highlighting the local minimums that arise with gradient descent. That is until I consider that each of these is a new observation with a different set of parameters, therefore surely a new set of false minima.
 

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 This is extremely simple, actually.
 
 When you define the model function, you can accept a `detector` object (with type `Detector` or `CMOS` or `CCD`). Inside that `detector` object, you can access the `photon` attribute, which holds an `array` attribute. 

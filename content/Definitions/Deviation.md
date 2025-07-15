@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 A sample's deviation is the value sampled minus the mean average of the sample.
 $$
 \begin{equation*}
