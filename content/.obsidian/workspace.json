@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "e25125e48ff9c177",
+            "id": "56f3000fe2736ebc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Way of Life/Mini-essays.md",
+                "file": "Work/ARRAKIHS/Fixed Pattern Dark Current.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mini-essays"
+              "title": "Fixed Pattern Dark Current"
             }
           },
           {
@@ -252,26 +252,28 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e25125e48ff9c177",
+  "active": "363b091fee8ade52",
   "lastOpenFiles": [
+    "Work/ARRAKIHS/Editable Properties.md",
+    "Work/ARRAKIHS/Fixed Pattern Dark Current.md",
+    "Way of Life/Mini-essays.md",
+    "images/Pasted image 20250710155810.png",
+    "images/Pasted image 20250702113716.png",
     "Notes/How I fixed my amplifier.md",
     "Notes",
     "Way of Life/Seneca's take on Reflection.md",
-    "Way of Life/Mini-essays.md",
     "Way of Life/The Power of Leaving your Phone at Home.md",
     "Definitions/Range.md",
     "Definitions/Summary Statistics.md",
     "Definitions/Variance.md",
     "Definitions/Residuals.md",
     "Work/ARRAKIHS/Manipulating the Photon Array.md",
-    "Work/ARRAKIHS/Editable Properties.md",
     "Welcome.md",
     "Work/ARRAKIHS/The Simple Light Shield via Array Slicing.md",
     "sync.ffs_lock",
     "Work/Papers/The frontier of simulation-based inference (2020).md",
     "Work/ARRAKIHS/Pyxel Usage.md",
     "Work/ARRAKIHS/Python Import Woes.md",
-    "images/Pasted image 20250710155810.png",
     "New Text Document.txt",
     "meta.md",
     "Work/SMILE/Calculating whether SMILE's SXI can see the magnetopause boundary.md",
@@ -283,9 +285,7 @@
     "Definitions/Simulation Based Inference (SBI).md",
     "Definitions/Statistical Inference (SI).md",
     "Definitions/Mechanistic models.md",
-    "Definitions/Histogram of residuals.md",
     "Untitled.canvas",
-    "images/Pasted image 20250702113716.png",
     "Work/ARRAKIHS",
     "Work/SMILE",
     "images/scatter_NM_375_fixed.png",
