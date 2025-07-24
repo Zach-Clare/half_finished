@@ -12,6 +12,6 @@ The straightforward way to fix this is to use two properties. The first being a 
 
 There are getters and setters used throughout the `characteristics` class for it's properties. The `gain_array_path` getter is simple enough, we return the path as a string. The setter is more complex. Do we want the setter to re-initialise the `gain_array` data? I think we do. Feel free to disagree. Would we then also have a locked setter for `gain_array_data` so that it can be set only through `gain_array_path`'s setter? Being able to set the actual array directly seems useful to me, but it breaks the link we would have set up between them by making `gain_array_path`'s setter interact with `gain_array`, so then it would be possible to have values in `gain_array` that do not reflect the contents of `gain_array_path`, which is not ideal. Either we lock them together, or we don't. For now, let's not, and we can change it later if we want to.
 
-In summary, both `gain_array_path` and `gain_array` will have unlocked (as in "unpaired") getters and setters.
+In summary, `gain_array_path` will be unlocked (as in "unpaired") from the `gain_array` property, but will have a getter and setter. The `gain_array` won't have a setter and instead will be set through the `initialize()` function in the same way the `charge_to_volt_conversion_array` is.
 
 That was a bit of an exercise, wasn't it? Time for a cuppa.

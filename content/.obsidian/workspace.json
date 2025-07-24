@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/ARRAKIHS/The User Input Gain Array.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The User Input Gain Array"
+              "title": "index"
             }
           }
         ],
@@ -276,10 +276,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "363b091fee8ade52",
+  "active": "af3d3502b6ad5b4b",
   "lastOpenFiles": [
+    "Welcome.md",
+    "index.md",
+    "meta.md",
+    "Work/ARRAKIHS/The User Input Gain Array Problem.md",
     "Work/ARRAKIHS/Fixed Pattern Dark Current.md",
-    "Work/ARRAKIHS/The User Input Gain Array.md",
     "Work/ARRAKIHS/Editable Properties.md",
     "Way of Life/Mini-essays.md",
     "images/Pasted image 20250710155810.png",
@@ -293,14 +296,12 @@
     "Definitions/Variance.md",
     "Definitions/Residuals.md",
     "Work/ARRAKIHS/Manipulating the Photon Array.md",
-    "Welcome.md",
     "Work/ARRAKIHS/The Simple Light Shield via Array Slicing.md",
     "sync.ffs_lock",
     "Work/Papers/The frontier of simulation-based inference (2020).md",
     "Work/ARRAKIHS/Pyxel Usage.md",
     "Work/ARRAKIHS/Python Import Woes.md",
     "New Text Document.txt",
-    "meta.md",
     "Work/SMILE/Calculating whether SMILE's SXI can see the magnetopause boundary.md",
     "Work/SMILE/Fitting tool workflow.md",
     "Work/SMILE/Differential Evolution fitting.md",
@@ -308,7 +309,6 @@
     "Way of Life/Environment shapes habits.md",
     "Work/SMILE/Nelder-Mead SXI Fitting.md",
     "Definitions/Simulation Based Inference (SBI).md",
-    "Definitions/Statistical Inference (SI).md",
     "Untitled.canvas",
     "Work/ARRAKIHS",
     "Work/SMILE",
