@@ -1,0 +1,17 @@
+Bit of a weird one, really. It's one of only two characteristics of the detector that require a pre-process step. The one that's currently in there has a note beside it, saying that it should be refactored. Clearly, if we emulate the way this has been implemented, it will not be the ideal and perfect way for the reasons it's been noted already.  
+
+This other characteristic is an array that describes the gain for different channels. This functionality is tested through separate means than the other characteristics, likely exactly because of the pre-processing step.
+
+## The Problem
+The specific issue I'm having right now, as I write these words, is that there is a set of tests to assure that the `characteristics.__init__()` function is correctly storing the arguments into the object. I have set up that function to accept `gain_array` as a string (as a filename it should go and look for). This is just stored as a string until the `initialize()` function is called later on, where it will then go and actually read the file provided and overwrite `gain_array` with the array inside the provided file. The set of checks to see if everything is set correctly isn't set up to take this into account.
+
+If we inspect how the channel gains are tested, things are somewhat clearer. That characteristic is tested separately from everything else, first with some valid values, and then with some invalid values. Following this exactly may not be the best course of action, as we want to also test that the initial filename argument has been passed correctly. 
+
+## The Solution
+The straightforward way to fix this is to use two properties. The first being a path to the gain array, the second being the contents of the array. This way, we test the filename has been stored correctly, then elsewhere we test the initialisation of that array data is correct. For this, we will use `gain_array_path` as the path to a file containing the data. After that has been processed, it will place the data into a property named `gain_array`. If we wanted to be even more unambiguous, we could name the data array as `gain_array_data`, but I feel this is overkill.
+
+There are getters and setters used throughout the `characteristics` class for it's properties. The `gain_array_path` getter is simple enough, we return the path as a string. The setter is more complex. Do we want the setter to re-initialise the `gain_array` data? I think we do. Feel free to disagree. Would we then also have a locked setter for `gain_array_data` so that it can be set only through `gain_array_path`'s setter? Being able to set the actual array directly seems useful to me, but it breaks the link we would have set up between them by making `gain_array_path`'s setter interact with `gain_array`, so then it would be possible to have values in `gain_array` that do not reflect the contents of `gain_array_path`, which is not ideal. Either we lock them together, or we don't. For now, let's not, and we can change it later if we want to.
+
+In summary, both `gain_array_path` and `gain_array` will have unlocked (as in "unpaired") getters and setters.
+
+That was a bit of an exercise, wasn't it? Time for a cuppa.
