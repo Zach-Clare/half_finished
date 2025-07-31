@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "0ec253a99c24019c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/ARRAKIHS/Python Import Woes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Python Import Woes"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -276,10 +300,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "af3d3502b6ad5b4b",
+  "active": "0ec253a99c24019c",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Work/ARRAKIHS/Testing Pyxel.md",
     "index.md",
+    "Welcome.md",
     "meta.md",
     "Work/ARRAKIHS/The User Input Gain Array Problem.md",
     "Work/ARRAKIHS/Fixed Pattern Dark Current.md",
@@ -308,7 +333,6 @@
     "Work/SMILE/A tool to help fitting for Magnetopause standoff distance.md",
     "Way of Life/Environment shapes habits.md",
     "Work/SMILE/Nelder-Mead SXI Fitting.md",
-    "Definitions/Simulation Based Inference (SBI).md",
     "Untitled.canvas",
     "Work/ARRAKIHS",
     "Work/SMILE",

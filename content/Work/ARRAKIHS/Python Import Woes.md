@@ -22,4 +22,4 @@ import pyxel
 
 It's probably worth saying that the path above then contains the actual `pyxel` (with a lower case "p"). 
 
-Now my model imports correctly and I can finally get to working on the functionality (but not before I write the tests for it).
+Now my model imports correctly and I can finally get to working on the functionality (but not before I [[Testing Pyxel|write the tests for it]]).

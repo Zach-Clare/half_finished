@@ -1,5 +1,7 @@
 @use "./base.scss";
 
+@use "./variables.scss" as *;
+
 // put your custom CSS here!
 
 // No scrollbar on explorer. The page will grow to fit
@@ -18,6 +20,36 @@ li {
   padding: 0.2rem 0;
 }
 
+// don't wrap words over lines. Just have that word on the next line.
+p, ul, text, a, li, ol, ul, .katex, .math {
+  hyphens: none;
+}
+
+// fix broken header on mobile
+@media all and ($mobile) {
+  .readermode,
+  .search > .search-button > p {
+    display: none
+  }
+
+  // remove background colour of search button
+  .search > .search-button {
+    background-color: inherit;
+  }
+
+  // align header SVGs
+  div:has(.darkmode) {
+    align-self: baseline!important;
+  }
+  .flex-component:has(div > .darkmode) {
+    margin-top: 0.3em;
+  }
+
+  .page-title {
+    margin-left: 13px;
+    padding-right: 1em!important;
+  }
+}
 
 /********************************** Callouts ******************************/
 
