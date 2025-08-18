@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96544bbf17a6fb29",
+            "id": "049d47bd01815446",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/ARRAKIHS/Editable Properties.md",
+                "file": "Work/SMILE/Nelder-Mead SXI Fitting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Editable Properties"
+              "title": "Nelder-Mead SXI Fitting"
             }
           },
           {
-            "id": "fb360855c44c8364",
+            "id": "fae6ba60689b8a12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Way of Life/Mini-essays.md",
+                "file": "Way of Life/In Summer I miss winter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mini-essays"
+              "title": "In Summer I miss winter"
             }
           },
           {
-            "id": "56f3000fe2736ebc",
+            "id": "823a9ee2f85ee8fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/ARRAKIHS/Fixed Pattern Dark Current.md",
+                "file": "Work/Papers/BIRP paper/BIRP paper outline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fixed Pattern Dark Current"
+              "title": "BIRP paper outline"
             }
           },
           {
-            "id": "92336c6c61c74bbe",
+            "id": "46e1b2eff8ad8af6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/ARRAKIHS/The Light Shield via Array Slicing.md",
+                "file": "Work/Papers/BIRP paper/Use Cases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Light Shield via Array Slicing"
+              "title": "Use Cases"
             }
           },
           {
-            "id": "af3d3502b6ad5b4b",
+            "id": "3faa76537dba42a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Work/Papers/BIRP paper/Performance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,35 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "0ec253a99c24019c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/ARRAKIHS/Python Import Woes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Python Import Woes"
+              "title": "Performance"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -291,63 +267,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "0ec253a99c24019c",
+  "active": "363b091fee8ade52",
   "lastOpenFiles": [
-    "Work/ARRAKIHS/Testing Pyxel.md",
-    "index.md",
-    "Welcome.md",
-    "meta.md",
-    "Work/ARRAKIHS/The User Input Gain Array Problem.md",
-    "Work/ARRAKIHS/Fixed Pattern Dark Current.md",
-    "Work/ARRAKIHS/Editable Properties.md",
-    "Way of Life/Mini-essays.md",
+    "images/Pasted image 20250818153418.png",
+    "Work/SMILE/Nelder-Mead SXI Fitting.md",
+    "Way of Life/In Summer I miss winter.md",
     "images/Pasted image 20250710155810.png",
-    "images/Pasted image 20250702113716.png",
+    "Way of Life/The Power of Leaving your Phone at Home.md",
+    "Way of Life/Seneca's take on Reflection.md",
+    "Way of Life/Mini-essays.md",
+    "Way of Life/I started telling my friends that I love them.md",
+    "Way of Life/Environment shapes habits.md",
+    "Way of Life",
     "Notes/How I fixed my amplifier.md",
     "Notes",
-    "Way of Life/Seneca's take on Reflection.md",
-    "Way of Life/The Power of Leaving your Phone at Home.md",
-    "Definitions/Range.md",
-    "Definitions/Summary Statistics.md",
-    "Definitions/Variance.md",
-    "Definitions/Residuals.md",
-    "Work/ARRAKIHS/Manipulating the Photon Array.md",
+    "Work/SMILE/A tool to help fitting for Magnetopause standoff distance.md",
+    "Definitions/Correlation.md",
+    "Work/Papers/BIRP paper/Methods and Techniques.md",
+    "Work/Papers/BIRP paper/Performance.md",
+    "Work/Papers/BIRP paper/Use Cases.md",
+    "meta.md",
+    "images/Pasted image 20250702113716.png",
     "Work/ARRAKIHS/The Simple Light Shield via Array Slicing.md",
-    "sync.ffs_lock",
-    "Work/Papers/The frontier of simulation-based inference (2020).md",
-    "Work/ARRAKIHS/Pyxel Usage.md",
-    "Work/ARRAKIHS/Python Import Woes.md",
-    "New Text Document.txt",
-    "Work/SMILE/Calculating whether SMILE's SXI can see the magnetopause boundary.md",
+    "Ideas/Secret Computer Code Threatens Science.md",
+    "Definitions/Residuals.md",
+    "Definitions/Variance.md",
+    "Work/SMILE/SBI for SXI L4 Data.md",
+    "Work/SMILE/Residual Miscalcuation.md",
+    "Work/SMILE/Nelder-mead's normalised error function.md",
+    "Work/SMILE/My custom Differential Evolution error function.md",
+    "Work/SMILE/Investigating Nelder-Mead's Errors.md",
     "Work/SMILE/Fitting tool workflow.md",
     "Work/SMILE/Differential Evolution fitting.md",
-    "Work/SMILE/A tool to help fitting for Magnetopause standoff distance.md",
-    "Way of Life/Environment shapes habits.md",
-    "Work/SMILE/Nelder-Mead SXI Fitting.md",
-    "Untitled.canvas",
-    "Work/ARRAKIHS",
+    "RecycleBin~5c0c.ffs_tmp/Work/Papers/BIRP paper",
+    "RecycleBin~5c0c.ffs_tmp/Work/Papers",
     "Work/SMILE",
+    "Work/ARRAKIHS",
+    "RecycleBin~5c0c.ffs_tmp/Definitions",
+    "RecycleBin~5c0c.ffs_tmp/Work",
+    "RecycleBin~5c0c.ffs_tmp",
+    "sync.ffs_lock",
     "images/scatter_NM_375_fixed.png",
     "images/scatter_NM__375_redisual_time_error.png",
     "images/scatter_NM_375_norm.png",
-    "Work/Papers/BIRP paper",
-    "Ideas",
     "images/scatter_DE_375_fixed.png",
     "images/nm_375_residual_time_error 1.png",
     "images/nm_375_residual_time_error.png",
     "images/binarisation_example.png",
-    "images/scatter_DE_375.png",
-    "Work/Papers",
-    "Definitions",
-    "Way of Life"
+    "images/scatter_DE_375.png"
   ]
 }
