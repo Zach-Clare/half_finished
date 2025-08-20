@@ -8,103 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96544bbf17a6fb29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/ARRAKIHS/Editable Properties.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Editable Properties"
-            }
-          },
-          {
-            "id": "fb360855c44c8364",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Way of Life/Mini-essays.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mini-essays"
-            }
-          },
-          {
-            "id": "56f3000fe2736ebc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/ARRAKIHS/Fixed Pattern Dark Current.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Fixed Pattern Dark Current"
-            }
-          },
-          {
-            "id": "92336c6c61c74bbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/ARRAKIHS/The Light Shield via Array Slicing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Light Shield via Array Slicing"
-            }
-          },
-          {
-            "id": "af3d3502b6ad5b4b",
+            "id": "2c4170e0859c5b9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -126,81 +30,8 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "0ec253a99c24019c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/ARRAKIHS/Python Import Woes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Python Import Woes"
-            }
-          },
-          {
-            "id": "04825084d5e3a8a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/ARRAKIHS/Readout Noise.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Readout Noise"
-            }
-          },
-          {
-            "id": "2c4170e0859c5b9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/ARRAKIHS/Readout Noise.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Readout Noise"
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -351,8 +182,12 @@
   },
   "active": "2c4170e0859c5b9e",
   "lastOpenFiles": [
-    "Work/ARRAKIHS/Python Import Woes.md",
     "Work/ARRAKIHS/Readout Noise.md",
+    "Work/ARRAKIHS/Manipulating the Photon Array.md",
+    "Work/ARRAKIHS/Loading arrays for Fixed Pattern Dark Current.md",
+    "Work/ARRAKIHS/Editable Properties.md",
+    "Work/ARRAKIHS/Python Import Woes.md",
+    "Work/ARRAKIHS/Pyxel Usage.md",
     "images/Pasted image 20250818153418.png",
     "Way of Life/In Summer I miss winter.md",
     "Work/ARRAKIHS/Testing Pyxel.md",
@@ -360,8 +195,6 @@
     "Welcome.md",
     "meta.md",
     "Work/ARRAKIHS/The User Input Gain Array Problem.md",
-    "Work/ARRAKIHS/Fixed Pattern Dark Current.md",
-    "Work/ARRAKIHS/Editable Properties.md",
     "Way of Life/Mini-essays.md",
     "images/Pasted image 20250710155810.png",
     "images/Pasted image 20250702113716.png",
@@ -373,11 +206,9 @@
     "Definitions/Summary Statistics.md",
     "Definitions/Variance.md",
     "Definitions/Residuals.md",
-    "Work/ARRAKIHS/Manipulating the Photon Array.md",
     "Work/ARRAKIHS/The Simple Light Shield via Array Slicing.md",
     "sync.ffs_lock",
     "Work/Papers/The frontier of simulation-based inference (2020).md",
-    "Work/ARRAKIHS/Pyxel Usage.md",
     "New Text Document.txt",
     "Work/SMILE/Calculating whether SMILE's SXI can see the magnetopause boundary.md",
     "Work/SMILE/Fitting tool workflow.md",
