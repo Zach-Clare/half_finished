@@ -174,9 +174,33 @@
               "icon": "lucide-file",
               "title": "Readout Noise"
             }
+          },
+          {
+            "id": "2c4170e0859c5b9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/ARRAKIHS/Readout Noise.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Readout Noise"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -315,6 +339,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
@@ -324,7 +349,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "363b091fee8ade52",
+  "active": "2c4170e0859c5b9e",
   "lastOpenFiles": [
     "Work/ARRAKIHS/Python Import Woes.md",
     "Work/ARRAKIHS/Readout Noise.md",
