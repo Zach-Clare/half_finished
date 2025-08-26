@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Way of Life/In Summer I miss winter.md",
+                "file": "Notes/How I fixed my amplifier.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "In Summer I miss winter"
+              "title": "How I fixed my amplifier"
+            }
+          },
+          {
+            "id": "de7a23166c059420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Moving away from Spotify.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Moving away from Spotify"
             }
           },
           {
@@ -78,57 +102,9 @@
               "icon": "lucide-file",
               "title": "BIRP paper outline"
             }
-          },
-          {
-            "id": "46e1b2eff8ad8af6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Papers/BIRP paper/Use Cases.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Use Cases"
-            }
-          },
-          {
-            "id": "3faa76537dba42a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Papers/BIRP paper/Performance.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Performance"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -276,11 +252,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "363b091fee8ade52",
+  "active": "823a9ee2f85ee8fa",
   "lastOpenFiles": [
+    "Work/Papers/BIRP paper/Use Cases.md",
+    "Work/Papers/BIRP paper/Performance.md",
+    "Notes/Moving away from Spotify.md",
+    "Notes/How I fixed my amplifier.md",
+    "Way of Life/In Summer I miss winter.md",
     "images/Pasted image 20250818153418.png",
     "Work/SMILE/Nelder-Mead SXI Fitting.md",
-    "Way of Life/In Summer I miss winter.md",
     "images/Pasted image 20250710155810.png",
     "Way of Life/The Power of Leaving your Phone at Home.md",
     "Way of Life/Seneca's take on Reflection.md",
@@ -288,13 +268,10 @@
     "Way of Life/I started telling my friends that I love them.md",
     "Way of Life/Environment shapes habits.md",
     "Way of Life",
-    "Notes/How I fixed my amplifier.md",
     "Notes",
     "Work/SMILE/A tool to help fitting for Magnetopause standoff distance.md",
     "Definitions/Correlation.md",
     "Work/Papers/BIRP paper/Methods and Techniques.md",
-    "Work/Papers/BIRP paper/Performance.md",
-    "Work/Papers/BIRP paper/Use Cases.md",
     "meta.md",
     "images/Pasted image 20250702113716.png",
     "Work/ARRAKIHS/The Simple Light Shield via Array Slicing.md",
@@ -322,7 +299,6 @@
     "images/scatter_DE_375_fixed.png",
     "images/nm_375_residual_time_error 1.png",
     "images/nm_375_residual_time_error.png",
-    "images/binarisation_example.png",
-    "images/scatter_DE_375.png"
+    "images/binarisation_example.png"
   ]
 }
