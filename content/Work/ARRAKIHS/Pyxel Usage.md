@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: false
+---
 Everything is loaded from a config file, to the point that if you were to share with someone a specific detector simulation, you would simply share the `.yaml` file. That config file is read into Pyxel via:
 ```python
 config = pyxel.load(path_to_yaml_file)
