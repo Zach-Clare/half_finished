@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Way of Life/Slow is Smooth, Smooth is Fast.md",
+                "file": "Ideas/Secret Computer Code Threatens Science.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,131 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Slow is Smooth, Smooth is Fast"
+              "title": "Secret Computer Code Threatens Science"
+            }
+          },
+          {
+            "id": "14a34d7d86b64e5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/My Childhood Hero.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "My Childhood Hero"
+            }
+          },
+          {
+            "id": "7c27142f1facbce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/What's something that's overrated in my industry.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "What's something that's overrated in my industry"
+            }
+          },
+          {
+            "id": "4496263e2e493375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/A creator that should be getting more recognition right now.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "A creator that should be getting more recognition right now"
+            }
+          },
+          {
+            "id": "a69433cb9766d39f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/The best way to spend £50.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The best way to spend £50"
+            }
+          },
+          {
+            "id": "481359707a8edc10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/ARRAKIHS/The Simple Light Shield via Array Slicing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Simple Light Shield via Array Slicing"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -229,18 +349,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f74bf2f1eb90c462",
+  "active": "481359707a8edc10",
   "lastOpenFiles": [
+    "Work/ARRAKIHS/The User Input Gain Array Problem.md",
+    "Work/ARRAKIHS/The Simple Light Shield via Array Slicing.md",
+    "Ideas/The world would be a better place if everyone just....md",
+    "Ideas/The best way to spend £50.md",
+    "Ideas/A creator that should be getting more recognition right now.md",
+    "Ideas/What's something that's overrated in my industry.md",
+    "Ideas/My Childhood Hero.md",
+    "Ideas/Secret Computer Code Threatens Science.md",
+    "Way of Life/Slow is Smooth, Smooth is Fast.md",
     "Notes/Moving away from Spotify.md",
     "Notes/Defund Tech Giants.md",
     "Notes/I want to de-Google.md",
-    "Way of Life/Slow is Smooth, Smooth is Fast.md",
     "Work/SMILE/My custom Differential Evolution error function.md",
     "Work/SMILE/Investigating Nelder-Mead's Errors.md",
     "Work/SMILE/Differential Evolution fitting.md",
-    "Work/ARRAKIHS/The Simple Light Shield via Array Slicing.md",
     "Work/ARRAKIHS/Testing Pyxel.md",
-    "Work/ARRAKIHS/The User Input Gain Array Problem.md",
     "Work/ARRAKIHS/Pyxel Usage.md",
     "Work/ARRAKIHS/Python Import Woes.md",
     "Work/ARRAKIHS/Editable Properties.md",
@@ -251,13 +377,7 @@
     "Work/SMILE/Residual Miscalcuation.md",
     "Work/SMILE/A tool to help fitting for Magnetopause standoff distance.md",
     "Work/SMILE/Calculating whether SMILE's SXI can see the magnetopause boundary.md",
-    "Work/SMILE/Fitting tool workflow.md",
     "images/Untitled.jpg",
-    "Notes/How I fixed my amplifier.md",
-    "Work/Papers/BIRP paper/BIRP paper outline.md",
-    "Work/Papers/BIRP paper/Use Cases.md",
-    "Work/Papers/BIRP paper/Performance.md",
-    "Way of Life/In Summer I miss winter.md",
     "images/Pasted image 20250818153418.png",
     "images/Pasted image 20250710155810.png",
     "Way of Life",
