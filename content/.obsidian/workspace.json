@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Work/SMILE/Residual Miscalcuation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Residual Miscalcuation"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A tool to help fitting for Magnetopause Standoff distance.md",
+                "file": "Work/ARRAKIHS/Readout Noise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A tool to help fitting for Magnetopause Standoff distance"
+              "title": "Backlinks for Readout Noise"
             }
           },
           {
@@ -182,16 +182,18 @@
   },
   "active": "2c4170e0859c5b9e",
   "lastOpenFiles": [
+    "images/de_100_residuals.png",
+    "images/de_100_incorrect_residuals.png",
     "Work/ARRAKIHS/Readout Noise.md",
-    "Work/ARRAKIHS/Manipulating the Photon Array.md",
     "Work/ARRAKIHS/Loading arrays for Fixed Pattern Dark Current.md",
+    "index.md",
+    "Work/ARRAKIHS/Manipulating the Photon Array.md",
     "Work/ARRAKIHS/Editable Properties.md",
     "Work/ARRAKIHS/Python Import Woes.md",
     "Work/ARRAKIHS/Pyxel Usage.md",
     "images/Pasted image 20250818153418.png",
     "Way of Life/In Summer I miss winter.md",
     "Work/ARRAKIHS/Testing Pyxel.md",
-    "index.md",
     "Welcome.md",
     "meta.md",
     "Work/ARRAKIHS/The User Input Gain Array Problem.md",
@@ -213,7 +215,6 @@
     "Work/SMILE/Calculating whether SMILE's SXI can see the magnetopause boundary.md",
     "Work/SMILE/Fitting tool workflow.md",
     "Work/SMILE/Differential Evolution fitting.md",
-    "Work/SMILE/A tool to help fitting for Magnetopause standoff distance.md",
     "Untitled.canvas",
     "Work/ARRAKIHS",
     "Work/SMILE",
@@ -225,7 +226,6 @@
     "images/scatter_DE_375_fixed.png",
     "images/nm_375_residual_time_error 1.png",
     "images/nm_375_residual_time_error.png",
-    "images/binarisation_example.png",
     "Work/Papers",
     "Definitions",
     "Way of Life"
