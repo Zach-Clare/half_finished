@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 A nifty little operation I'd like to commit to memory (hence the fact I'm writing about it now), is array slicing in Python. It's come in useful for me a few times by now and I figured it was time to keep it in my toolbox.
 
 It looks a little strange, which is perhaps why I've been scared of it, but this little snippet is what brought me over to the dark side of array slicing.

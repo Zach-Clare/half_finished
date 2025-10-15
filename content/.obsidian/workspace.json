@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e26e724b6fed5bf0",
+        "id": "536b5d50bd31563c",
         "type": "tabs",
         "children": [
           {
-            "id": "9f2add5082b79129",
+            "id": "2c4170e0859c5b9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/SMILE/Residual Miscalcuation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Residual Miscalcuation"
+            }
+          },
+          {
+            "id": "728b64cf1f5f1411",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,17 +196,22 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "481359707a8edc10",
+  "active": "728b64cf1f5f1411",
   "lastOpenFiles": [
+    "Work/SMILE/Nelder-Mead SXI Fitting.md",
+    "Work/SMILE/Nelder-mead's normalised error function.md",
+    "Work/SMILE/Differential Evolution fitting.md",
+    "Work/SMILE/Calculating whether SMILE's SXI can see the magnetopause boundary.md",
+    "Work/SMILE/A tool to help fitting for Magnetopause standoff distance.md",
     "images/de_100_residuals.png",
     "images/de_100_incorrect_residuals.png",
     "Work/ARRAKIHS/Readout Noise.md",
@@ -198,34 +227,30 @@
     "Welcome.md",
     "meta.md",
     "Work/ARRAKIHS/The User Input Gain Array Problem.md",
+    "Way of Life/Mini-essays.md",
+    "images/Pasted image 20250710155810.png",
+    "images/Pasted image 20250702113716.png",
+    "Notes/How I fixed my amplifier.md",
+    "Notes",
+    "Way of Life/Seneca's take on Reflection.md",
+    "Way of Life/The Power of Leaving your Phone at Home.md",
+    "Definitions/Range.md",
+    "Definitions/Summary Statistics.md",
+    "Definitions/Variance.md",
+    "Definitions/Residuals.md",
     "Work/ARRAKIHS/The Simple Light Shield via Array Slicing.md",
-    "Ideas/The world would be a better place if everyone just....md",
-    "Ideas/The best way to spend £50.md",
-    "Ideas/A creator that should be getting more recognition right now.md",
-    "Ideas/What's something that's overrated in my industry.md",
-    "Ideas/My Childhood Hero.md",
-    "Ideas/Secret Computer Code Threatens Science.md",
-    "Way of Life/Slow is Smooth, Smooth is Fast.md",
-    "Notes/Moving away from Spotify.md",
-    "Notes/Defund Tech Giants.md",
-    "Notes/I want to de-Google.md",
-    "Work/SMILE/My custom Differential Evolution error function.md",
-    "Work/SMILE/Investigating Nelder-Mead's Errors.md",
-    "Work/SMILE/Differential Evolution fitting.md",
+    "sync.ffs_lock",
+    "New Text Document.txt",
     "Untitled.canvas",
     "Work/ARRAKIHS",
     "Work/SMILE",
-    "Work/ARRAKIHS",
-    "RecycleBin~5c0c.ffs_tmp/Definitions",
-    "RecycleBin~5c0c.ffs_tmp/Work",
-    "RecycleBin~5c0c.ffs_tmp",
-    "sync.ffs_lock",
     "images/scatter_NM_375_fixed.png",
     "images/scatter_NM__375_redisual_time_error.png",
     "images/scatter_NM_375_norm.png",
+    "Work/Papers/BIRP paper",
+    "Ideas",
     "images/scatter_DE_375_fixed.png",
     "images/nm_375_residual_time_error 1.png",
-    "images/nm_375_residual_time_error.png",
     "Work/Papers",
     "Definitions",
     "Way of Life"
