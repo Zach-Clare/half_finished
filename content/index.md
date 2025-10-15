@@ -5,4 +5,4 @@ This is my sacred yet cluttered part of the internet where I'm able to dump my t
 
 If you have any questions or comments about my work notes, feel free to email me at my work email address: z.clare@ucl.ac.uk.
 
-If you want to talk to me about my personal notes, get in touch with me some other way.
+If you want to talk to me about my personal notes, then it's likely you already know me in person. Please get in touch with me however you usually might.

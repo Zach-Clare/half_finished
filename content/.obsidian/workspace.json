@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/SMILE/Residual Miscalcuation.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Residual Miscalcuation"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,24 +180,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "481359707a8edc10",
+  "active": "9f2add5082b79129",
   "lastOpenFiles": [
+    "meta.md",
+    "Work/SMILE/Nelder-Mead SXI Fitting.md",
+    "Work/SMILE/A tool to help fitting for Magnetopause standoff distance.md",
+    "Work/SMILE/Calculating whether SMILE's SXI can see the magnetopause boundary.md",
+    "Work/ARRAKIHS/The Simple Light Shield via Array Slicing.md",
+    "Work/ARRAKIHS/Pyxel Usage.md",
+    "Work/ARRAKIHS/Manipulating the Photon Array.md",
+    "Work/SMILE/Residual Miscalcuation.md",
+    "Work/SMILE/SBI for SXI L4 Data.md",
     "images/de_100_residuals.png",
     "images/de_100_incorrect_residuals.png",
     "Work/ARRAKIHS/Readout Noise.md",
     "Work/ARRAKIHS/Loading arrays for Fixed Pattern Dark Current.md",
     "index.md",
-    "Work/ARRAKIHS/Manipulating the Photon Array.md",
     "Work/ARRAKIHS/Editable Properties.md",
     "Work/ARRAKIHS/Python Import Woes.md",
-    "Work/ARRAKIHS/Pyxel Usage.md",
     "images/Pasted image 20250818153418.png",
     "Way of Life/In Summer I miss winter.md",
     "Work/ARRAKIHS/Testing Pyxel.md",
     "Welcome.md",
-    "meta.md",
     "Work/ARRAKIHS/The User Input Gain Array Problem.md",
-    "Work/ARRAKIHS/The Simple Light Shield via Array Slicing.md",
     "Ideas/The world would be a better place if everyone just....md",
     "Ideas/The best way to spend £50.md",
     "Ideas/A creator that should be getting more recognition right now.md",
@@ -207,11 +211,6 @@
     "Ideas/Secret Computer Code Threatens Science.md",
     "Way of Life/Slow is Smooth, Smooth is Fast.md",
     "Notes/Moving away from Spotify.md",
-    "Notes/Defund Tech Giants.md",
-    "Notes/I want to de-Google.md",
-    "Work/SMILE/My custom Differential Evolution error function.md",
-    "Work/SMILE/Investigating Nelder-Mead's Errors.md",
-    "Work/SMILE/Differential Evolution fitting.md",
     "Untitled.canvas",
     "Work/ARRAKIHS",
     "Work/SMILE",
