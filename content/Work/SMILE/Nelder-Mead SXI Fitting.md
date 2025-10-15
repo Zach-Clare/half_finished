@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[scatter_NM_375_fixed.png]]
 Above is a run I did with 375 fake observations using the [[A tool to help fitting for Magnetopause standoff distance||MP fitting tool]]. One can see that these lines that surface during the Nelder-Mead fit are very present. 
 ## Cause

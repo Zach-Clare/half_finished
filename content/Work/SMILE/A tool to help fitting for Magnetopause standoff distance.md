@@ -7,7 +7,7 @@ During April and May 2025, I created a sort of framework for developing and (cru
 There are a few components but the general idea revolves around three areas:
 	- Generating ~1500 fake observations
 	- Fitting CMEM parameters and write to file
-	- Read file and measure fitting success over the fake observations
+	- Read file and measure fitting success over ~1500 different observations
 
 They are each separate files, so progress is saved at each stage. This allows me to iterate on ideas without needing to run time-consuming fits again.
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ![[scatter_DE_375_fixed.png]]
 
 Here are 375 different fits using Differential Evolution to find the magnetopause standoff distance, created using my [[A tool to help fitting for Magnetopause standoff distance||fitting tool]]. Overall I think these results are very good. We can't be expected to create good fits when the MP subsolar point is outside the boundary, but we have to be doing decently well when they are. However, you can see it's even good enough to get a handful of outside FOVs correct.
