@@ -1,7 +1,3 @@
----
-dg-publish: true
----
-
 This note should help provide a brief overview of how the [[A tool to help fitting for Magnetopause standoff distance|fitting tool]] works in practise. I encourage you to open the code and follow along - look in the main functions and get inquisitive.
 
 ## Creating observations
@@ -21,10 +17,11 @@ The Library class has a `parse_filename()` method that returns all the parameter
 
 Anyway, you can then pass your filename to whichever fitting function within the `Fitting` class you'd like to use. This is the meat of the whole tool, I think. This is the science. Tweaking the error function in the `assessor` class to reflect your problem space is very important. 
 
->I should refactor the assessor function and clean up the error functions.
+> [!info] I should refactor the assessor function and clean up the error functions.
 
 Once you have your result object, pass it to the `Results` class and it'll keep a hold of it. When you've done all the fits you'd like to do, call the `Result:writeJson()` method and it should record it in your file of choice.
 
+> [!info] It would be better to write results line by line, rather than all at the end. One error will lose all the results!
 ## Visualising results
 Instantiate the `Results` class, pass in your JSON file with `results.readJson(filename)` and then call `results.analyse()`. That will fill out `Results`' properties with a bunch of data you can use.
 

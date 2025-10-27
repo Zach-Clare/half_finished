@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "33e9a5b343a75fd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/SMILE/An Example Differential Evolution Fit.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "An Example Differential Evolution Fit"
+            }
+          },
+          {
+            "id": "b59f9b72d8002970",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/SMILE/What dictates fitting accuracy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "What dictates fitting accuracy"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,22 +229,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f2add5082b79129",
+  "active": "b59f9b72d8002970",
   "lastOpenFiles": [
+    "Work/SMILE/Fitting tool workflow.md",
+    "Work/SMILE/Nelder-mead's normalised error function.md",
+    "Work/SMILE/Residual Miscalcuation.md",
+    "Work/SMILE/SBI for SXI L4 Data.md",
     "meta.md",
-    "Work/SMILE/Nelder-Mead SXI Fitting.md",
+    "index.md",
     "Work/SMILE/A tool to help fitting for Magnetopause standoff distance.md",
+    "Work/SMILE/What dictates fitting accuracy.md",
+    "images/orbit_pos_within_FOV2 1.png",
+    "images/orbit_pos_within_FOV2.png",
+    "Work/SMILE/An Example Differential Evolution Fit.md",
+    "Work/SMILE/Nelder-Mead SXI Fitting.md",
     "Work/SMILE/Calculating whether SMILE's SXI can see the magnetopause boundary.md",
     "Work/ARRAKIHS/The Simple Light Shield via Array Slicing.md",
     "Work/ARRAKIHS/Pyxel Usage.md",
     "Work/ARRAKIHS/Manipulating the Photon Array.md",
-    "Work/SMILE/Residual Miscalcuation.md",
-    "Work/SMILE/SBI for SXI L4 Data.md",
     "images/de_100_residuals.png",
     "images/de_100_incorrect_residuals.png",
     "Work/ARRAKIHS/Readout Noise.md",
     "Work/ARRAKIHS/Loading arrays for Fixed Pattern Dark Current.md",
-    "index.md",
     "Work/ARRAKIHS/Editable Properties.md",
     "Work/ARRAKIHS/Python Import Woes.md",
     "images/Pasted image 20250818153418.png",
@@ -207,10 +262,6 @@
     "Ideas/The best way to spend £50.md",
     "Ideas/A creator that should be getting more recognition right now.md",
     "Ideas/What's something that's overrated in my industry.md",
-    "Ideas/My Childhood Hero.md",
-    "Ideas/Secret Computer Code Threatens Science.md",
-    "Way of Life/Slow is Smooth, Smooth is Fast.md",
-    "Notes/Moving away from Spotify.md",
     "Untitled.canvas",
     "Work/ARRAKIHS",
     "Work/SMILE",
@@ -224,7 +275,6 @@
     "images/scatter_NM_375_norm.png",
     "images/scatter_DE_375_fixed.png",
     "images/nm_375_residual_time_error 1.png",
-    "images/nm_375_residual_time_error.png",
     "Work/Papers",
     "Definitions",
     "Way of Life"
