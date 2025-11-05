@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "What dictates fitting accuracy"
             }
+          },
+          {
+            "id": "8e4adb67a9160423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/SMILE/Support for non-uniform grids.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Support for non-uniform grids"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -229,8 +253,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b59f9b72d8002970",
+  "active": "363b091fee8ade52",
   "lastOpenFiles": [
+    "Work/SMILE/What dictates fitting accuracy.md",
+    "Work/SMILE/Support for non-uniform grids.md",
     "Work/SMILE/Fitting tool workflow.md",
     "Work/SMILE/Nelder-mead's normalised error function.md",
     "Work/SMILE/Residual Miscalcuation.md",
@@ -238,7 +264,6 @@
     "meta.md",
     "index.md",
     "Work/SMILE/A tool to help fitting for Magnetopause standoff distance.md",
-    "Work/SMILE/What dictates fitting accuracy.md",
     "images/orbit_pos_within_FOV2 1.png",
     "images/orbit_pos_within_FOV2.png",
     "Work/SMILE/An Example Differential Evolution Fit.md",
@@ -261,7 +286,6 @@
     "Ideas/The world would be a better place if everyone just....md",
     "Ideas/The best way to spend £50.md",
     "Ideas/A creator that should be getting more recognition right now.md",
-    "Ideas/What's something that's overrated in my industry.md",
     "Untitled.canvas",
     "Work/ARRAKIHS",
     "Work/SMILE",
