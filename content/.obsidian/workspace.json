@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "SBI for SXI L4 Data"
             }
+          },
+          {
+            "id": "0906a0e01b4ca298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/SMILE/PyTest and main().md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PyTest and main()"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -277,8 +301,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ab4e6f00e8d3d87",
+  "active": "363b091fee8ade52",
   "lastOpenFiles": [
+    "Work/SMILE/SBI for SXI L4 Data.md",
+    "Work/SMILE/PyTest and main().md",
     "Work/ARRAKIHS/Python Import Woes.md",
     "Work/ARRAKIHS/Pyxel Usage.md",
     "Work/ARRAKIHS/Manipulating the Photon Array.md",
@@ -287,7 +313,6 @@
     "Definitions/Residuals.md",
     "meta.md",
     "index.md",
-    "Work/SMILE/SBI for SXI L4 Data.md",
     "Notes/Defund Tech Giants.md",
     "Ideas/What's something that's overrated in my industry.md",
     "Ideas/The world would be a better place if everyone just....md",
@@ -304,7 +329,6 @@
     "Work/ARRAKIHS/The User Input Gain Array Problem.md",
     "Work/ARRAKIHS/The Simple Light Shield via Array Slicing.md",
     "Work/ARRAKIHS/Testing Pyxel.md",
-    "Notes/How I fixed my amplifier.md",
     "images/orbit_pos_within_FOV2 1.png",
     "images/orbit_pos_within_FOV2.png",
     "images/de_100_residuals.png",
