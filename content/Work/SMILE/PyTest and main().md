@@ -16,7 +16,7 @@ def test_fit_calls_fit_wharton2025(mock_fit_wharton2025):
 
 I would end up getting a wild error looking like this:
 
-```bash
+```console
 user@COMPUTER:~/code/SXI_L4$ poetry run pytest -v
 =================================================================================== test session starts ===================================================================================
 platform linux -- Python 3.14.2, pytest-9.0.2, pluggy-1.6.0 -- /home/user/.cache/pypoetry/virtualenvs/sxi-l4-BboN5yha-py3.14/bin/python
@@ -121,7 +121,7 @@ if __name__ == "__main__":
 
 And try running our tests again:
 
-```bash
+```console
 user@COMPUTER:~/code/SXI_L4$ poetry run pytest
 =================================================================================== test session starts ===================================================================================
 platform linux -- Python 3.14.2, pytest-9.0.2, pluggy-1.6.0
