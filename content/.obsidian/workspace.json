@@ -150,9 +150,57 @@
               "icon": "lucide-file",
               "title": "PyTest and main()"
             }
+          },
+          {
+            "id": "678be8540b6b6b82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/SMILE/Automated Repository Tests.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Automated Repository Tests"
+            }
+          },
+          {
+            "id": "6582278c77cd5db0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/SMILE/Automated Repository Tests.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Automated Repository Tests"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -303,8 +351,10 @@
   },
   "active": "363b091fee8ade52",
   "lastOpenFiles": [
-    "Work/SMILE/SBI for SXI L4 Data.md",
+    "Definitions/I thought using loops was cheating....md",
+    "Work/SMILE/Automated Repository Tests.md",
     "Work/SMILE/PyTest and main().md",
+    "Work/SMILE/SBI for SXI L4 Data.md",
     "Work/ARRAKIHS/Python Import Woes.md",
     "Work/ARRAKIHS/Pyxel Usage.md",
     "Work/ARRAKIHS/Manipulating the Photon Array.md",
@@ -327,8 +377,6 @@
     "Work/SMILE/An Example Differential Evolution Fit.md",
     "Work/SMILE/A tool to help fitting for Magnetopause standoff distance.md",
     "Work/ARRAKIHS/The User Input Gain Array Problem.md",
-    "Work/ARRAKIHS/The Simple Light Shield via Array Slicing.md",
-    "Work/ARRAKIHS/Testing Pyxel.md",
     "images/orbit_pos_within_FOV2 1.png",
     "images/orbit_pos_within_FOV2.png",
     "images/de_100_residuals.png",

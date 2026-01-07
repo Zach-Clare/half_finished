@@ -146,3 +146,5 @@ FAILED tests/test_fit.py::test_nothing - assert 0
 ```
 
 I never thought I'd be so glad to see a failing test :)
+
+Now it's all sorted, we can move onto setting up automated repository tests.
