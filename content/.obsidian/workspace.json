@@ -349,11 +349,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "363b091fee8ade52",
+  "active": "6582278c77cd5db0",
   "lastOpenFiles": [
-    "Definitions/I thought using loops was cheating....md",
-    "Work/SMILE/Automated Repository Tests.md",
+    "images/Pasted image 20260108152519.png",
+    "images/Pasted image 20260108152245.png",
     "Work/SMILE/PyTest and main().md",
+    "Work/SMILE/Automated Repository Tests.md",
+    "Definitions/I thought using loops was cheating....md",
     "Work/SMILE/SBI for SXI L4 Data.md",
     "Work/ARRAKIHS/Python Import Woes.md",
     "Work/ARRAKIHS/Pyxel Usage.md",
@@ -376,7 +378,6 @@
     "Work/SMILE/Calculating whether SMILE's SXI can see the magnetopause boundary.md",
     "Work/SMILE/An Example Differential Evolution Fit.md",
     "Work/SMILE/A tool to help fitting for Magnetopause standoff distance.md",
-    "Work/ARRAKIHS/The User Input Gain Array Problem.md",
     "images/orbit_pos_within_FOV2 1.png",
     "images/orbit_pos_within_FOV2.png",
     "images/de_100_residuals.png",
@@ -394,7 +395,6 @@
     "images/scatter_NM__375_redisual_time_error.png",
     "images/scatter_NM_375_norm.png",
     "images/scatter_DE_375_fixed.png",
-    "images/nm_375_residual_time_error 1.png",
     "Work/Papers",
     "Definitions",
     "Way of Life"

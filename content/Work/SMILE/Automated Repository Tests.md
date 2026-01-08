@@ -99,7 +99,6 @@ Much like the `Poetry` install, we'll need to build the virtual environment if o
 
 ## Install the root project
 Again, if we include this step earlier, we could create caching issues (as the root project necessarily changes between commits), so we'll do it as a separate step here.
-
 ```yaml
       - name: Install dependencies
         if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
@@ -107,13 +106,17 @@ Again, if we include this step earlier, we could create caching issues (as the r
 ```
 
 ## Do the tests
-Finally, let's run the actual tests. Fairly simple, we just need to make sure we run the tests through 'Poetry', otherwise we'll get missing dependencies. The next task is to find a good way to get some pretty test result on the workflow summary page. [Driocurr's pytest-summary](https://github.com/marketplace/actions/pytest-summary) seems to do that really nicely, but we can't use it because we need to go through `Poetry`. Hmm...
-
-Oh yeah, here's the code.
+Finally, let's run the actual tests. Fairly simple, we just need to make sure we run the tests through `Poetry`, otherwise we'll get missing dependencies. We should find a good way to get some pretty test result on the workflow summary page. [Driocurr's pytest-summary](https://github.com/marketplace/actions/pytest-summary) seems to do that really nicely, but we can't use it because we need to go through `Poetry`. Instead, let's echo the output of the test command into the test summary variable and it'll end up being displayed on the workflow summary page. We can also include `--cov=sxi_l4` to measure the test coverage of the `sxi_l4` directory and have them displayed. Oh yeah, here's the code.
 ```yaml
       - name: Test with pytest
-        run: peotry run pytest
+        run: poetry run pytest -ra --cov=sxi_l4 >> $GITHUB_STEP_SUMMARY
 ```
+
+And actually I'll include a screenshot of what that looks like, too. I don't think it's very clean, I'd quite like to replace this with something a bit easier to understand. Getting all the required information is pretty difficult. If you have any ideas, [please get in touch](mailto:z.clare@ucl.ac.uk).
+![[Pasted image 20260108152245.png]]
+
+The coverage report looks like this in the terminal. Perhaps there's a way to use raw output?
+![[Pasted image 20260108152519.png]]
 
 ## Putting it all together
 And viola! Here's the final product, complete with a few comments.
