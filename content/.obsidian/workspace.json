@@ -198,9 +198,33 @@
               "icon": "lucide-file",
               "title": "Automated Repository Tests"
             }
+          },
+          {
+            "id": "7d4845151a098750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/SMILE/How I sped up the SXI Simulator.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How I sped up the SXI Simulator"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -349,12 +373,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6582278c77cd5db0",
+  "active": "363b091fee8ade52",
   "lastOpenFiles": [
+    "images/Pasted image 20260209174600.png",
+    "images/Pasted image 20260209174445.png",
+    "Work/SMILE/Automated Repository Tests.md",
+    "Work/SMILE/How I sped up the SXI Simulator.md",
     "images/Pasted image 20260108152519.png",
     "images/Pasted image 20260108152245.png",
     "Work/SMILE/PyTest and main().md",
-    "Work/SMILE/Automated Repository Tests.md",
     "Definitions/I thought using loops was cheating....md",
     "Work/SMILE/SBI for SXI L4 Data.md",
     "Work/ARRAKIHS/Python Import Woes.md",
@@ -377,7 +404,6 @@
     "Work/SMILE/Differential Evolution fitting.md",
     "Work/SMILE/Calculating whether SMILE's SXI can see the magnetopause boundary.md",
     "Work/SMILE/An Example Differential Evolution Fit.md",
-    "Work/SMILE/A tool to help fitting for Magnetopause standoff distance.md",
     "images/orbit_pos_within_FOV2 1.png",
     "images/orbit_pos_within_FOV2.png",
     "images/de_100_residuals.png",
@@ -393,8 +419,6 @@
     "sync.ffs_lock",
     "images/scatter_NM_375_fixed.png",
     "images/scatter_NM__375_redisual_time_error.png",
-    "images/scatter_NM_375_norm.png",
-    "images/scatter_DE_375_fixed.png",
     "Work/Papers",
     "Definitions",
     "Way of Life"
