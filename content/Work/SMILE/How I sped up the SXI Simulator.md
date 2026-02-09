@@ -12,7 +12,7 @@ Here's the output of the perf report, basically saying where it thought the bulk
 # Event count (approx.): 118276726490
 #
 # Children      Self  Command  Shared Object                                             Symbol                                                                                                                 >
-# ........  ........  .......  ........................................................  .......................................................................................................................>
+# ........  ........  .......  ........................................................  .....................................>
 #
     62.28%    62.28%  python3  _sigtools.cpython-310-x86_64-linux-gnu.so                 [.] pylab_convolve_2d
     31.23%    31.23%  python3  _sigtools.cpython-310-x86_64-linux-gnu.so                 [.] DOUBLE_onemultadd
@@ -43,9 +43,9 @@ Here's the output of the perf report, basically saying where it thought the bulk
 ...
 ```
 
-As you can see, it seems like ~60% of the execution time is spent convolving the matrix. This is because, looking further into the symbol, it's from `scipy.convolve2d`. There actually exists a faster way to do convolutions when you're working with large arrays. 3Blue1Brown has an [excellent YouTube video](https://www.youtube.com/watch?v=KuXjwB4LzSA) on this where you can start understanding convolutions, and he even gives an introduction to the something called a Fast Fourier Transform, which is what we'll be leveraging here.
+As you can see, it seems like ~60% of the execution time is spent convolving the matrix. This is because, looking further into the symbol, it's from `scipy.convolve2d()`. There actually exists a faster way to do convolutions when you're working with large arrays. 3Blue1Brown has an [excellent YouTube video](https://www.youtube.com/watch?v=KuXjwB4LzSA) on this where you can start understanding convolutions, and he even gives an introduction to something called a Fast Fourier Transform, which is what we'll be leveraging here.
 
-So...simple enough then, we'll just replace `scipy.convolve2d` with `scipy.fftconvolve`!
+So that's simple enough then, we'll just replace `scipy.convolve2d()` with `scipy.fftconvolve()`!
 
 ![[Pasted image 20260209174600.png]]
 
@@ -85,7 +85,9 @@ Created: ./SMILE_SXI_L3_SCIM15-SCI-CXF_20260317T0240-20260317T0245_V01_1x1_fitte
  }
 ```
 
-It's not pretty but [[Slow is Smooth, Smooth is Fast|it doesn't need to be]]. In the following example and for the remainder of my test runs (while I debug and continually get syntax wrong), I set the maximum iterations of the optimisation function to 2, just to get a flavour of where time is spent under the bonnet without having to wait around so long. 
+This is a bit of a mess to someone who doesn't know what they're looking at, I get that. Pay particular attention to the numbers next to "fit" and "SXI sim". That's how many seconds are spent in each of these areas. 
+
+It's not pretty but [[Slow is Smooth, Smooth is Fast|it doesn't need to be]]. In the following example and for the remainder of my test runs (while I debug and continually get syntax wrong), I set the maximum iterations of the optimisation function to 2, just to get a flavour of where time is spent under the bonnet without having to wait around so long. So now the numbers are smaller:
 ```bash
 {'fit': 38.998542902001645,
    'SXI sim': 43.93966020800872,
