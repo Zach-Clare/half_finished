@@ -8,180 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f2add5082b79129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "33e9a5b343a75fd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/SMILE/An Example Differential Evolution Fit.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "An Example Differential Evolution Fit"
-            }
-          },
-          {
-            "id": "b59f9b72d8002970",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/SMILE/What dictates fitting accuracy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "What dictates fitting accuracy"
-            }
-          },
-          {
-            "id": "8e4adb67a9160423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Moving away from Spotify.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Moving away from Spotify"
-            }
-          },
-          {
-            "id": "9ab4e6f00e8d3d87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/SMILE/SBI for SXI L4 Data.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SBI for SXI L4 Data"
-            }
-          },
-          {
-            "id": "0906a0e01b4ca298",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/SMILE/PyTest and main().md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PyTest and main()"
-            }
-          },
-          {
-            "id": "678be8540b6b6b82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/SMILE/Automated Repository Tests.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Automated Repository Tests"
-            }
-          },
-          {
             "id": "6582278c77cd5db0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/SMILE/Automated Repository Tests.md",
+                "file": "Work/ARRAKIHS/Unpicking 3D Temperature Dependence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Automated Repository Tests"
+              "title": "Unpicking 3D Temperature Dependence"
             }
           },
           {
-            "id": "7d4845151a098750",
+            "id": "226f9b8d84858f31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/SMILE/How I sped up the SXI Simulator.md",
+                "file": "Work/ARRAKIHS/Unpicking 3D Temperature Dependence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,11 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How I sped up the SXI Simulator"
+              "title": "Unpicking 3D Temperature Dependence"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -373,37 +205,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "363b091fee8ade52",
+  "active": "226f9b8d84858f31",
   "lastOpenFiles": [
+    "images/Pasted image 20260528140225.png",
+    "images/Pasted image 20260528140039.png",
+    "Polynomial Domains and Windows.md",
+    "Work/ARRAKIHS/Unpicking 3D Temperature Dependence.md",
+    "Work/ARRAKIHS/The User Input Gain Array Problem.md",
+    "Work/SMILE/Automated Repository Tests.md",
+    "Work/SMILE/Nelder-mead's normalised error function.md",
+    "Work/SMILE/Nelder-Mead SXI Fitting.md",
+    "Work/SMILE/Investigating Nelder-Mead's Errors.md",
+    "Work/SMILE/How I sped up the SXI Simulator.md",
+    "Work/SMILE/Fitting tool workflow.md",
+    "Work/SMILE/Differential Evolution fitting.md",
+    "Work/ARRAKIHS/Editable Properties.md",
+    "Work/ARRAKIHS/Fixed Pattern Dark Current.md",
+    "Work/ARRAKIHS/Manipulating the Photon Array.md",
+    "Work/ARRAKIHS/Python Import Woes.md",
+    "Work/ARRAKIHS/Pyxel Usage.md",
+    "Work/ARRAKIHS/Testing Pyxel.md",
     "images/Pasted image 20260209174600.png",
     "images/Pasted image 20260209174445.png",
-    "Work/SMILE/Automated Repository Tests.md",
-    "Work/SMILE/How I sped up the SXI Simulator.md",
     "images/Pasted image 20260108152519.png",
     "images/Pasted image 20260108152245.png",
     "Work/SMILE/PyTest and main().md",
     "Definitions/I thought using loops was cheating....md",
     "Work/SMILE/SBI for SXI L4 Data.md",
-    "Work/ARRAKIHS/Python Import Woes.md",
-    "Work/ARRAKIHS/Pyxel Usage.md",
-    "Work/ARRAKIHS/Manipulating the Photon Array.md",
-    "Work/ARRAKIHS/Fixed Pattern Dark Current.md",
-    "Work/ARRAKIHS/Editable Properties.md",
     "Definitions/Residuals.md",
     "meta.md",
     "index.md",
     "Notes/Defund Tech Giants.md",
     "Ideas/What's something that's overrated in my industry.md",
     "Ideas/The world would be a better place if everyone just....md",
-    "Ideas/The best way to spend £50.md",
-    "Ideas/Secret Computer Code Threatens Science.md",
-    "Ideas/My Childhood Hero.md",
-    "Ideas/A creator that should be getting more recognition right now.md",
-    "Work/SMILE/Architecture of the L4 tool.md",
-    "Notes/Moving away from Spotify.md",
-    "Work/SMILE/Differential Evolution fitting.md",
-    "Work/SMILE/Calculating whether SMILE's SXI can see the magnetopause boundary.md",
-    "Work/SMILE/An Example Differential Evolution Fit.md",
     "images/orbit_pos_within_FOV2 1.png",
     "images/orbit_pos_within_FOV2.png",
     "images/de_100_residuals.png",
@@ -417,8 +251,6 @@
     "RecycleBin~5c0c.ffs_tmp/Work",
     "RecycleBin~5c0c.ffs_tmp",
     "sync.ffs_lock",
-    "images/scatter_NM_375_fixed.png",
-    "images/scatter_NM__375_redisual_time_error.png",
     "Work/Papers",
     "Definitions",
     "Way of Life"
