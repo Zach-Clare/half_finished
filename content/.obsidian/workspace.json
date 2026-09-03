@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/ARRAKIHS/Unpicking 3D Temperature Dependence.md",
+                "file": "Work/ARRAKIHS/Polynomial Domains and Windows.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unpicking 3D Temperature Dependence"
+              "title": "Polynomial Domains and Windows"
+            }
+          },
+          {
+            "id": "b773bac08fff9952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/SMILE/How I sped up the SXI Simulator.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How I sped up the SXI Simulator"
+            }
+          },
+          {
+            "id": "77724ba1641333a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stardust.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Stardust"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,18 +253,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "226f9b8d84858f31",
+  "active": "77724ba1641333a7",
   "lastOpenFiles": [
+    "Work/SMILE/How I sped up the SXI Simulator.md",
+    "Stardust.md",
+    "Reviews",
+    "Uncovering the Cause of Unequal Costs.md",
+    "images/Pasted image 20260609123106.png",
+    "images/Pasted image 20260609122830.png",
+    "images/Pasted image 20260609113801.png",
+    "Work/ARRAKIHS/Polynomial Domains and Windows.md",
+    "Work/ARRAKIHS/Unpicking 3D Temperature Dependence.md",
     "images/Pasted image 20260528140225.png",
     "images/Pasted image 20260528140039.png",
-    "Polynomial Domains and Windows.md",
-    "Work/ARRAKIHS/Unpicking 3D Temperature Dependence.md",
     "Work/ARRAKIHS/The User Input Gain Array Problem.md",
     "Work/SMILE/Automated Repository Tests.md",
     "Work/SMILE/Nelder-mead's normalised error function.md",
     "Work/SMILE/Nelder-Mead SXI Fitting.md",
     "Work/SMILE/Investigating Nelder-Mead's Errors.md",
-    "Work/SMILE/How I sped up the SXI Simulator.md",
     "Work/SMILE/Fitting tool workflow.md",
     "Work/SMILE/Differential Evolution fitting.md",
     "Work/ARRAKIHS/Editable Properties.md",
@@ -237,12 +291,7 @@
     "index.md",
     "Notes/Defund Tech Giants.md",
     "Ideas/What's something that's overrated in my industry.md",
-    "Ideas/The world would be a better place if everyone just....md",
     "images/orbit_pos_within_FOV2 1.png",
-    "images/orbit_pos_within_FOV2.png",
-    "images/de_100_residuals.png",
-    "images/de_100_incorrect_residuals.png",
-    "images/Pasted image 20250818153418.png",
     "Untitled.canvas",
     "Work/ARRAKIHS",
     "Work/SMILE",
@@ -252,7 +301,6 @@
     "RecycleBin~5c0c.ffs_tmp",
     "sync.ffs_lock",
     "Work/Papers",
-    "Definitions",
-    "Way of Life"
+    "Definitions"
   ]
 }
