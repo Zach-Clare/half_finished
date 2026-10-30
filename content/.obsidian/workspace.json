@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6582278c77cd5db0",
+            "id": "f553412c55bf7b09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/ARRAKIHS/Unpicking 3D Temperature Dependence.md",
+                "file": "Work/ARRAKIHS/Testing Pyxel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unpicking 3D Temperature Dependence"
+              "title": "Testing Pyxel"
             }
           },
           {
-            "id": "226f9b8d84858f31",
+            "id": "721961c83f784cda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/ARRAKIHS/Polynomial Domains and Windows.md",
+                "file": "Work/ARRAKIHS/Getting MSSL's Pyxel working on your computer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,107 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Polynomial Domains and Windows"
-            }
-          },
-          {
-            "id": "b773bac08fff9952",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/SMILE/How I sped up the SXI Simulator.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How I sped up the SXI Simulator"
-            }
-          },
-          {
-            "id": "77724ba1641333a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reviews/Stardust.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Stardust"
-            }
-          },
-          {
-            "id": "8d5465870c0b125f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reviews/Stardust.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Stardust"
-            }
-          },
-          {
-            "id": "4c7dd252aace6d39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Intouchables (2011).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Intouchables (2011)"
+              "title": "Getting MSSL's Pyxel working on your computer"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -303,17 +207,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c7dd252aace6d39",
+  "active": "363b091fee8ade52",
   "lastOpenFiles": [
+    "images/Pasted image 20261030111254.png",
+    "Work/ARRAKIHS/Python Import Woes.md",
+    "Work/ARRAKIHS/Polynomial Domains and Windows.md",
+    "Work/ARRAKIHS/Getting MSSL's Pyxel working on your computer.md",
+    "Work/ARRAKIHS/Testing Pyxel.md",
+    "Work/SMILE/discover_L3.py from the L4 Pipeline.md",
+    "Work/SMILE/Uncovering the Cause of Unequal Costs.md",
     "Reviews/Stardust.md",
-    "The Intouchables (2011).md",
-    "Uncovering the Cause of Unequal Costs.md",
     "Work/SMILE/How I sped up the SXI Simulator.md",
+    "Ideas/A creator that should be getting more recognition right now.md",
+    "Ideas/My Childhood Hero.md",
+    "Ideas/Secret Computer Code Threatens Science.md",
+    "Ideas/What's something that's overrated in my industry.md",
+    "Ideas/The world would be a better place if everyone just....md",
+    "Ideas/The best way to spend £50.md",
+    "Definitions/ORM (Object-Relational Mapper).md",
+    "Reviews/The Intouchables (2011).md",
     "Reviews",
     "images/Pasted image 20260609123106.png",
     "images/Pasted image 20260609122830.png",
     "images/Pasted image 20260609113801.png",
-    "Work/ARRAKIHS/Polynomial Domains and Windows.md",
     "Work/ARRAKIHS/Unpicking 3D Temperature Dependence.md",
     "images/Pasted image 20260528140225.png",
     "images/Pasted image 20260528140039.png",
@@ -325,22 +241,10 @@
     "Work/SMILE/Fitting tool workflow.md",
     "Work/SMILE/Differential Evolution fitting.md",
     "Work/ARRAKIHS/Editable Properties.md",
-    "Work/ARRAKIHS/Fixed Pattern Dark Current.md",
-    "Work/ARRAKIHS/Manipulating the Photon Array.md",
-    "Work/ARRAKIHS/Python Import Woes.md",
-    "Work/ARRAKIHS/Pyxel Usage.md",
-    "Work/ARRAKIHS/Testing Pyxel.md",
     "images/Pasted image 20260209174600.png",
     "images/Pasted image 20260209174445.png",
     "images/Pasted image 20260108152519.png",
     "images/Pasted image 20260108152245.png",
-    "Work/SMILE/PyTest and main().md",
-    "Definitions/I thought using loops was cheating....md",
-    "Work/SMILE/SBI for SXI L4 Data.md",
-    "Definitions/Residuals.md",
-    "meta.md",
-    "index.md",
-    "Notes/Defund Tech Giants.md",
     "images/orbit_pos_within_FOV2 1.png",
     "Untitled.canvas",
     "Work/ARRAKIHS",
