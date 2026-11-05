@@ -1,4 +1,0 @@
-I'm building out this documentation as I write the code because otherwise I'll have to do it all at the end and that's always awful. This post specifically is talking about the discover_L3.py script which focuses on finding new level 3 files and adding them to the processing queue, as well as creating whichever other data we might need.
-
-We are using an [[ORM (Object-Relational Mapper)]] for this. Since I'm using Python and I want something quite lightweight, I went with peewee. I made it auto-generate the `models.py` file which it built from the existing database design. I believe any change to that file will then go and update the database schema, since we're calling `connect()` and `create_tables()` on every script startup. Changes to the `models.py` file should be very carefully thought out so that we don't end up with data loss!
-

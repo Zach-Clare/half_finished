@@ -1,0 +1,4 @@
+
+We are using an [[ORM (Object-Relational Mapper)]] for this. Since I'm using Python and I want something quite lightweight, I went with peewee. I made it auto-generate the `models.py` file which it built from the existing database design. ~~I believe any change to that file will then go and update the database schema, since we're calling `connect()` and `create_tables()` on every script startup. Changes to the `models.py` file should be very carefully thought out so that we don't end up with data loss!~~ We aren't caling create_tables() on every startup! But we can, if we'd like to.
+
+Following peewee's method, we can select stuff with `Object.get(Object.attribute == "value")`. That gets us a single row. To get multiple, we can use `.select()`. Have a look at their [Querying page](https://docs.peewee-orm.com/en/latest/peewee/querying.html). 
