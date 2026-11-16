@@ -4,5 +4,6 @@
   ],
   "theme": "system",
   "cssTheme": "",
-  "accentColor": "#ff2672"
+  "accentColor": "#ff2672",
+  "showRibbon": true
 }
