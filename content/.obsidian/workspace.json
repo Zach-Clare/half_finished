@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,10 +243,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "363b091fee8ade52",
+  "active": "2b88bf053d59151b",
   "lastOpenFiles": [
-    "Work/SMILE/L4 Pipeline/discover_L3.py from the L4 Pipeline.md",
     "Work/SMILE/L4 Pipeline/create_L4.py from the L4 Pipeline.md",
+    "images/Pasted image 20261117161534.png",
+    "images/Pasted image 20261117161432.png",
+    "images/Pasted image 20261117161318.png",
+    "Work/SMILE/L4 Pipeline/discover_L3.py from the L4 Pipeline.md",
     "images/Pasted image 20261106170833.png",
     "images/Pasted image 20261106170804.png",
     "Database connections.md",
@@ -275,14 +278,10 @@
     "images/Pasted image 20260609113801.png",
     "Work/ARRAKIHS/Unpicking 3D Temperature Dependence.md",
     "images/Pasted image 20260528140225.png",
-    "images/Pasted image 20260528140039.png",
     "Work/ARRAKIHS/The User Input Gain Array Problem.md",
     "Work/SMILE/Automated Repository Tests.md",
     "Work/SMILE/Nelder-mead's normalised error function.md",
     "Work/SMILE/Nelder-Mead SXI Fitting.md",
-    "Work/SMILE/Investigating Nelder-Mead's Errors.md",
-    "images/Pasted image 20260209174600.png",
-    "images/Pasted image 20260209174445.png",
     "Untitled.canvas",
     "Work/ARRAKIHS",
     "Work/SMILE",
